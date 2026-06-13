@@ -54,6 +54,6 @@ On their **next app launch**, all users silently receive the updated questions. 
 
 ## GitHub Pages
 
-The site is live at: `https://YOUR_GITHUB_USERNAME.github.io/ozready-content/`
+The site is live at: `https://ssharmaa1.github.io/ozready-content/`
 
 To enable: **Settings → Pages → Source → Deploy from branch → main → /docs**
