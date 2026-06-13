@@ -1,0 +1,4284 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "chapter_id": 1,
+      "text": "What is the capital city of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "correct_index": 2,
+      "explanation": "Canberra is the capital city of Australia. It was purpose-built as a compromise between rivals Sydney and Melbourne. Canberra became the capital when the Federal Parliament moved there in 1927.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "capital"
+      ]
+    },
+    {
+      "id": 2,
+      "chapter_id": 1,
+      "text": "How many states does Australia have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia has 6 states: New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "states"
+      ]
+    },
+    {
+      "id": 3,
+      "chapter_id": 1,
+      "text": "What is Australia's national anthem?",
+      "options": [
+        "God Save the King",
+        "Waltzing Matilda",
+        "Advance Australia Fair",
+        "The Star-Spangled Banner"
+      ],
+      "correct_index": 2,
+      "explanation": "Advance Australia Fair has been Australia's national anthem since 1984, replacing God Save the Queen.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "symbols",
+        "anthem"
+      ]
+    },
+    {
+      "id": 4,
+      "chapter_id": 1,
+      "text": "What are Australia's national colours?",
+      "options": [
+        "Red, white and blue",
+        "Green and gold",
+        "Blue and white",
+        "Red and gold"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia's national colours are green and gold, as seen in our sports uniforms and national symbols.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "symbols",
+        "colours"
+      ]
+    },
+    {
+      "id": 5,
+      "chapter_id": 1,
+      "text": "What does the Southern Cross on the Australian flag represent?",
+      "options": [
+        "The six states",
+        "Australia's location in the southern hemisphere",
+        "The Commonwealth",
+        "British heritage"
+      ],
+      "correct_index": 1,
+      "explanation": "The Southern Cross constellation represents Australia's location in the southern hemisphere. It is visible from the southern hemisphere and has long been a navigation guide.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "flag",
+        "symbols"
+      ]
+    },
+    {
+      "id": 6,
+      "chapter_id": 1,
+      "text": "How many points does the Commonwealth Star on the Australian flag have?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_index": 2,
+      "explanation": "The Commonwealth Star has 7 points \u2014 6 representing the states and 1 representing the territories of Australia.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "flag",
+        "symbols"
+      ]
+    },
+    {
+      "id": 7,
+      "chapter_id": 1,
+      "text": "What is Australia's approximate population?",
+      "options": [
+        "15 million",
+        "20 million",
+        "26 million",
+        "35 million"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia's population is approximately 26 million people, making it one of the less densely populated countries in the world despite its large land mass.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "population",
+        "geography"
+      ]
+    },
+    {
+      "id": 8,
+      "chapter_id": 1,
+      "text": "What is Australia's national flower?",
+      "options": [
+        "Rose",
+        "Waratah",
+        "Golden Wattle",
+        "Kangaroo Paw"
+      ],
+      "correct_index": 2,
+      "explanation": "The Golden Wattle (Acacia pycnantha) is Australia's national floral emblem. Its gold flowers and green leaves reflect Australia's national colours.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "symbols",
+        "nature"
+      ]
+    },
+    {
+      "id": 9,
+      "chapter_id": 1,
+      "text": "What are Australia's two national animal emblems?",
+      "options": [
+        "Kangaroo and koala",
+        "Kangaroo and emu",
+        "Emu and platypus",
+        "Wombat and kangaroo"
+      ],
+      "correct_index": 1,
+      "explanation": "The kangaroo and emu are Australia's national animal emblems, both appearing on the Commonwealth Coat of Arms. They were chosen because neither can move backwards easily \u2014 symbolising a nation moving forward.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "symbols",
+        "animals"
+      ]
+    },
+    {
+      "id": 10,
+      "chapter_id": 1,
+      "text": "In which hemisphere is Australia located?",
+      "options": [
+        "Northern",
+        "Southern",
+        "Eastern only",
+        "Western only"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia is located in the southern hemisphere, which is why Australians experience summer in December and winter in June.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "id": 11,
+      "chapter_id": 1,
+      "text": "What is Australia's largest state by area?",
+      "options": [
+        "New South Wales",
+        "Queensland",
+        "Northern Territory",
+        "Western Australia"
+      ],
+      "correct_index": 3,
+      "explanation": "Western Australia is the largest state, covering about one third of Australia's total land mass. However, the Northern Territory is a territory, not a state.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "states"
+      ]
+    },
+    {
+      "id": 12,
+      "chapter_id": 1,
+      "text": "What is Australia's largest city by population?",
+      "options": [
+        "Melbourne",
+        "Brisbane",
+        "Sydney",
+        "Canberra"
+      ],
+      "correct_index": 2,
+      "explanation": "Sydney is Australia's largest city by population, with over 5 million residents. It was also the site of Australia's first European settlement.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "cities"
+      ]
+    },
+    {
+      "id": 13,
+      "chapter_id": 1,
+      "text": "Who are the original inhabitants of Australia?",
+      "options": [
+        "British settlers",
+        "Aboriginal and Torres Strait Islander peoples",
+        "Dutch explorers",
+        "Chinese immigrants"
+      ],
+      "correct_index": 1,
+      "explanation": "Aboriginal and Torres Strait Islander peoples are the original inhabitants of Australia, with a history dating back at least 60,000 years, making them one of the oldest continuous cultures on Earth.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "indigenous"
+      ]
+    },
+    {
+      "id": 14,
+      "chapter_id": 1,
+      "text": "How long have Aboriginal and Torres Strait Islander peoples lived in Australia?",
+      "options": [
+        "10,000 years",
+        "20,000 years",
+        "40,000 years",
+        "At least 60,000 years"
+      ],
+      "correct_index": 3,
+      "explanation": "Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 60,000 years, making them custodians of one of the world's oldest living cultures.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "indigenous"
+      ]
+    },
+    {
+      "id": 15,
+      "chapter_id": 1,
+      "text": "What ocean lies to the east of Australia?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Southern Ocean",
+        "Arctic Ocean"
+      ],
+      "correct_index": 1,
+      "explanation": "The Pacific Ocean lies to the east of Australia. The Indian Ocean is to the west, and the Southern Ocean is to the south.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "id": 16,
+      "chapter_id": 1,
+      "text": "What does Australia's description as a continent, country and island mean?",
+      "options": [
+        "It is surrounded by water on all sides",
+        "It is the world's smallest continent",
+        "Australia occupies an entire continent, making it unique",
+        "It is an archipelago"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia is unique as it is simultaneously a country, a continent, and the world's largest island. No other nation occupies an entire continent.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "id": 17,
+      "chapter_id": 1,
+      "text": "What is Australia's national gemstone?",
+      "options": [
+        "Diamond",
+        "Ruby",
+        "Opal",
+        "Sapphire"
+      ],
+      "correct_index": 2,
+      "explanation": "The opal is Australia's national gemstone. Australia produces about 95% of the world's opals, particularly in South Australia and New South Wales.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "symbols",
+        "nature"
+      ]
+    },
+    {
+      "id": 18,
+      "chapter_id": 1,
+      "text": "Which country is closest to Australia's north?",
+      "options": [
+        "New Zealand",
+        "Indonesia",
+        "Japan",
+        "Philippines"
+      ],
+      "correct_index": 1,
+      "explanation": "Indonesia is the country closest to Australia's north, separated by the Timor Sea. Australia and Indonesia share a maritime border.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "id": 19,
+      "chapter_id": 1,
+      "text": "What is Australia's official language?",
+      "options": [
+        "English is the official language",
+        "Australia has no official language",
+        "English and Aboriginal languages",
+        "English and French"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia has no legally designated official language, though English is the de facto national language used in government, education, and daily life. Many Aboriginal languages are also spoken.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "culture",
+        "language"
+      ]
+    },
+    {
+      "id": 20,
+      "chapter_id": 1,
+      "text": "What is Australia's island state?",
+      "options": [
+        "Christmas Island",
+        "Lord Howe Island",
+        "Tasmania",
+        "Kangaroo Island"
+      ],
+      "correct_index": 2,
+      "explanation": "Tasmania is Australia's island state, located south of Victoria across the Bass Strait. It is known for its wilderness areas and unique wildlife.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "states"
+      ]
+    },
+    {
+      "id": 21,
+      "chapter_id": 2,
+      "text": "What type of government does Australia have?",
+      "options": [
+        "Communist state",
+        "Absolute monarchy",
+        "Parliamentary democracy with constitutional monarchy",
+        "Republic"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia is a parliamentary democracy with a constitutional monarchy. This means Australian citizens elect their representatives, and the King is Australia's head of state.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "democracy"
+      ]
+    },
+    {
+      "id": 22,
+      "chapter_id": 2,
+      "text": "Which of the following is a democratic freedom protected in Australia?",
+      "options": [
+        "The right to own any weapon",
+        "Freedom of religion",
+        "The right to avoid paying taxes",
+        "Freedom to ignore court orders"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom of religion is one of Australia's key democratic freedoms. All Australians can practise any religion, or no religion, without government interference.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "freedom"
+      ]
+    },
+    {
+      "id": 23,
+      "chapter_id": 2,
+      "text": "What does 'rule of law' mean in Australia?",
+      "options": [
+        "The Prime Minister's decisions override the law",
+        "Everyone, including the government, must follow the law",
+        "Only citizens must follow the law",
+        "Wealthy people can buy their way out of legal consequences"
+      ],
+      "correct_index": 1,
+      "explanation": "The rule of law is a fundamental principle meaning that everyone \u2014 including government officials and the Prime Minister \u2014 must follow the law. No one is above the law.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "democracy"
+      ]
+    },
+    {
+      "id": 24,
+      "chapter_id": 2,
+      "text": "What does freedom of association mean in Australia?",
+      "options": [
+        "You must join a union",
+        "You can join or not join any legal group or organisation",
+        "Only certain groups are allowed",
+        "You must participate in political parties"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom of association means you can freely join \u2014 or choose not to join \u2014 any legal organisation, group, or association, including trade unions and political parties.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "freedom"
+      ]
+    },
+    {
+      "id": 25,
+      "chapter_id": 2,
+      "text": "What is the 'fair go' principle?",
+      "options": [
+        "Free government services for everyone",
+        "Equal opportunity for everyone to succeed regardless of background",
+        "Equal pay for equal work only",
+        "Free education for children"
+      ],
+      "correct_index": 1,
+      "explanation": "The 'fair go' is a fundamental Australian value meaning everyone deserves an equal chance and opportunity to succeed in life, regardless of their background, heritage, or circumstances.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "equality"
+      ]
+    },
+    {
+      "id": 26,
+      "chapter_id": 2,
+      "text": "Freedom of movement in Australia means:",
+      "options": [
+        "Free public transport for all",
+        "Australians can move freely within and leave Australia",
+        "Only citizens can travel between states",
+        "No passport is required for international travel"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom of movement means Australians can travel freely within Australia and also leave and return to Australia without restriction.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "freedom"
+      ]
+    },
+    {
+      "id": 27,
+      "chapter_id": 2,
+      "text": "Which of the following is NOT a democratic freedom in Australia?",
+      "options": [
+        "Freedom of speech",
+        "Freedom to commit crimes",
+        "Freedom of religion",
+        "Freedom of movement"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom to commit crimes is not a democratic freedom \u2014 it is illegal. All genuine democratic freedoms exist within the law and must be exercised responsibly.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "law"
+      ]
+    },
+    {
+      "id": 28,
+      "chapter_id": 2,
+      "text": "What does freedom of speech allow Australians to do?",
+      "options": [
+        "Say anything without any consequences",
+        "Express views and opinions peacefully and within the law",
+        "Defame others without penalty",
+        "Incite violence freely"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom of speech allows Australians to express their views and opinions peacefully, but this freedom operates within the law \u2014 it does not include defamation, inciting violence, or hate speech.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "freedom"
+      ]
+    },
+    {
+      "id": 29,
+      "chapter_id": 2,
+      "text": "What does 'equality before the law' mean?",
+      "options": [
+        "Everyone pays the same fine",
+        "All people are subject to and protected by the same laws regardless of status",
+        "Only citizens get legal protection",
+        "Equal pay for lawyers"
+      ],
+      "correct_index": 1,
+      "explanation": "Equality before the law means that all people \u2014 regardless of their wealth, status, religion, or background \u2014 are subject to and protected by the same laws.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "equality"
+      ]
+    },
+    {
+      "id": 30,
+      "chapter_id": 2,
+      "text": "What is meant by 'parliamentary democracy' in Australia?",
+      "options": [
+        "The Prime Minister rules alone",
+        "Citizens elect representatives who make decisions on their behalf",
+        "The King makes all laws",
+        "A small council makes all decisions"
+      ],
+      "correct_index": 1,
+      "explanation": "In a parliamentary democracy, citizens elect representatives to Parliament, and these representatives make decisions and laws on behalf of the people.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "democracy"
+      ]
+    },
+    {
+      "id": 31,
+      "chapter_id": 3,
+      "text": "What are the three levels of government in Australia?",
+      "options": [
+        "City, state, national",
+        "Federal, state and local",
+        "Regional, provincial, federal",
+        "Shire, county, national"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia has three levels of government: federal (national), state and territory, and local government. Each has different responsibilities.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "structure"
+      ]
+    },
+    {
+      "id": 32,
+      "chapter_id": 3,
+      "text": "What are the two houses of Australia's Federal Parliament?",
+      "options": [
+        "The Commons and the Lords",
+        "The Senate and the House of Representatives",
+        "The Upper and Lower Council",
+        "The Assembly and the Chamber"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia's Federal Parliament has two houses: the Senate (upper house) and the House of Representatives (lower house). Both must pass a bill before it can become law.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "parliament"
+      ]
+    },
+    {
+      "id": 33,
+      "chapter_id": 3,
+      "text": "Who is Australia's head of state?",
+      "options": [
+        "The Prime Minister",
+        "The President",
+        "The King",
+        "The Governor-General"
+      ],
+      "correct_index": 2,
+      "explanation": "The King (currently King Charles III) is Australia's head of state. Australia is a constitutional monarchy, part of the Commonwealth of Nations.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "head of state"
+      ]
+    },
+    {
+      "id": 34,
+      "chapter_id": 3,
+      "text": "Who represents the King in Australia?",
+      "options": [
+        "The Prime Minister",
+        "The Governor-General",
+        "The Chief Justice",
+        "The Speaker of the House"
+      ],
+      "correct_index": 1,
+      "explanation": "The Governor-General represents the King in Australia and carries out constitutional duties such as opening Parliament, signing legislation, and swearing in ministers.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "governor-general"
+      ]
+    },
+    {
+      "id": 35,
+      "chapter_id": 3,
+      "text": "What is the role of the Prime Minister?",
+      "options": [
+        "To represent the King",
+        "To lead the federal government",
+        "To be the highest judge",
+        "To run state government"
+      ],
+      "correct_index": 1,
+      "explanation": "The Prime Minister is the leader of the federal government and heads the Cabinet, which is the key decision-making body of government.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "prime minister"
+      ]
+    },
+    {
+      "id": 36,
+      "chapter_id": 3,
+      "text": "How long is the maximum term for members of the House of Representatives?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "6 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Members of the House of Representatives serve a maximum term of 3 years before an election must be held.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "elections"
+      ]
+    },
+    {
+      "id": 37,
+      "chapter_id": 3,
+      "text": "How long is a senator's term in Australia?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "6 years"
+      ],
+      "correct_index": 3,
+      "explanation": "Senators serve a term of 6 years, with half of the senators facing election every 3 years (except for territory senators).",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "senate"
+      ]
+    },
+    {
+      "id": 38,
+      "chapter_id": 3,
+      "text": "How many senators does each state have?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct_index": 3,
+      "explanation": "Each of Australia's six states has 12 senators, giving 72 state senators in total. The territories have fewer senators.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "senate"
+      ]
+    },
+    {
+      "id": 39,
+      "chapter_id": 3,
+      "text": "When did Australia become a federation?",
+      "options": [
+        "January 1, 1788",
+        "January 1, 1901",
+        "January 26, 1901",
+        "January 1, 1910"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia became a federation on January 1, 1901, when the six colonies joined together to form the Commonwealth of Australia.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "federation"
+      ]
+    },
+    {
+      "id": 40,
+      "chapter_id": 3,
+      "text": "What is the Australian Constitution?",
+      "options": [
+        "A set of rules for immigration",
+        "The document that sets out the rules for how Australia is governed",
+        "The national anthem",
+        "Australia's trade agreement with Britain"
+      ],
+      "correct_index": 1,
+      "explanation": "The Australian Constitution is the foundational legal document that establishes Australia's system of government, including the structure of Parliament, and the division of powers between federal and state governments.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "constitution"
+      ]
+    },
+    {
+      "id": 41,
+      "chapter_id": 3,
+      "text": "What is the highest court in Australia?",
+      "options": [
+        "The Federal Court",
+        "The Supreme Court",
+        "The High Court of Australia",
+        "The Constitutional Court"
+      ],
+      "correct_index": 2,
+      "explanation": "The High Court of Australia is the highest court in the land. It interprets the Constitution, hears appeals from lower courts, and its decisions are final.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "courts"
+      ]
+    },
+    {
+      "id": 42,
+      "chapter_id": 3,
+      "text": "What are the three arms (branches) of government in Australia?",
+      "options": [
+        "Local, state, federal",
+        "Legislative, executive, judicial",
+        "President, Senate, House",
+        "King, Parliament, Courts"
+      ],
+      "correct_index": 1,
+      "explanation": "The three arms of government are: the legislature (Parliament, which makes laws), the executive (the government, which implements laws), and the judiciary (courts, which interpret laws).",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "structure"
+      ]
+    },
+    {
+      "id": 43,
+      "chapter_id": 3,
+      "text": "Voting in federal elections is:",
+      "options": [
+        "Voluntary for all citizens",
+        "Compulsory for enrolled citizens aged 18 and over",
+        "Only for people born in Australia",
+        "Optional for people over 65"
+      ],
+      "correct_index": 1,
+      "explanation": "Voting in federal elections is compulsory for all enrolled Australian citizens aged 18 and over. Failing to vote without a valid reason can result in a fine.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "elections"
+      ]
+    },
+    {
+      "id": 44,
+      "chapter_id": 3,
+      "text": "What electoral system is used for Australian federal elections?",
+      "options": [
+        "First past the post",
+        "Preferential voting",
+        "Random selection",
+        "Proportional only"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia uses preferential (or ranked choice) voting for the House of Representatives, where voters rank candidates in order of preference.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "elections"
+      ]
+    },
+    {
+      "id": 45,
+      "chapter_id": 3,
+      "text": "What system of government did Australia base its democracy on?",
+      "options": [
+        "The American system",
+        "The Westminster system from Britain",
+        "The French system",
+        "The Swiss system"
+      ],
+      "correct_index": 1,
+      "explanation": "Australian democracy is based on the Westminster system of government, which originated in the United Kingdom and features a Parliament with two houses.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "history"
+      ]
+    },
+    {
+      "id": 46,
+      "chapter_id": 3,
+      "text": "What is local government responsible for?",
+      "options": [
+        "Defence and foreign policy",
+        "Education and health primarily",
+        "Local roads, parks, and community services",
+        "Immigration policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Local government (councils) is responsible for local services such as roads, parks, waste collection, libraries, local planning, and community facilities.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "local"
+      ]
+    },
+    {
+      "id": 47,
+      "chapter_id": 3,
+      "text": "What is the federal (national) government mainly responsible for?",
+      "options": [
+        "Local parks and rubbish collection",
+        "State hospitals and schools",
+        "Defence, immigration, and foreign affairs",
+        "State police forces"
+      ],
+      "correct_index": 2,
+      "explanation": "The federal government is responsible for national matters including defence, foreign affairs, immigration, social security, and trade.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "federal"
+      ]
+    },
+    {
+      "id": 48,
+      "chapter_id": 3,
+      "text": "Where does the Federal Parliament of Australia meet?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "correct_index": 2,
+      "explanation": "The Federal Parliament meets in Parliament House in Canberra, the national capital. Parliament House was opened in 1988.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "parliament"
+      ]
+    },
+    {
+      "id": 49,
+      "chapter_id": 3,
+      "text": "How can the Australian Constitution be changed?",
+      "options": [
+        "Only the Prime Minister can change it",
+        "By referendum \u2014 Parliament proposes and the people vote",
+        "The Governor-General changes it",
+        "The High Court changes it"
+      ],
+      "correct_index": 1,
+      "explanation": "The Constitution can only be changed through a referendum where Parliament must first approve the proposed change, then a majority of Australian voters AND a majority of states must vote 'yes'.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "constitution",
+        "referendum"
+      ]
+    },
+    {
+      "id": 50,
+      "chapter_id": 3,
+      "text": "What is 'separation of powers' in Australia?",
+      "options": [
+        "Each state has its own laws",
+        "The three arms of government are separate and independent",
+        "Federal and state governments are separate",
+        "Australia is separate from the UK"
+      ],
+      "correct_index": 1,
+      "explanation": "Separation of powers means the three branches of government \u2014 legislative (makes laws), executive (implements laws), and judicial (interprets laws) \u2014 are kept separate and independent to prevent abuse of power.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "constitution"
+      ]
+    },
+    {
+      "id": 51,
+      "chapter_id": 4,
+      "text": "Which statement best describes Australian values about women?",
+      "options": [
+        "Women should primarily stay at home",
+        "Men and women have equal rights",
+        "Women have fewer legal rights in some areas",
+        "Women cannot work in certain professions"
+      ],
+      "correct_index": 1,
+      "explanation": "Men and women are equal in Australia. They have the same legal rights and opportunities in all areas of life including work, education, and family.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "equality",
+        "gender"
+      ]
+    },
+    {
+      "id": 52,
+      "chapter_id": 4,
+      "text": "What is Australia's approach to discrimination?",
+      "options": [
+        "Some discrimination based on religion is acceptable",
+        "Discrimination based on race, sex, disability or religion is illegal",
+        "Only racial discrimination is illegal",
+        "Employers can discriminate for cultural reasons"
+      ],
+      "correct_index": 1,
+      "explanation": "Discrimination based on race, colour, sex, disability, religion, age, or other attributes is illegal in Australia. Australian law protects everyone from discrimination.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "equality",
+        "law"
+      ]
+    },
+    {
+      "id": 53,
+      "chapter_id": 4,
+      "text": "What is the Australian attitude toward family violence?",
+      "options": [
+        "It is a private family matter",
+        "It is acceptable in some cultural contexts",
+        "It is completely unacceptable and illegal in Australia",
+        "It is only illegal if serious injuries occur"
+      ],
+      "correct_index": 2,
+      "explanation": "Family violence \u2014 including domestic violence \u2014 is completely unacceptable and illegal in Australia in ALL circumstances. No cultural or religious background justifies family violence.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "law",
+        "safety"
+      ]
+    },
+    {
+      "id": 54,
+      "chapter_id": 4,
+      "text": "What does 'mateship' mean as an Australian value?",
+      "options": [
+        "Only socialising with other Australians",
+        "Loyalty, friendship, and supporting one another",
+        "Competitive individualism",
+        "Getting married early in life"
+      ],
+      "correct_index": 1,
+      "explanation": "Mateship is a uniquely Australian value referring to friendship, loyalty, and a spirit of mutual support \u2014 helping others through difficulties and standing by those you care about.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "culture"
+      ]
+    },
+    {
+      "id": 55,
+      "chapter_id": 4,
+      "text": "What is Australia's approach to freedom of religion?",
+      "options": [
+        "All Australians must be Christian",
+        "Islam is not permitted",
+        "All religions are respected and people can practise any or no religion",
+        "Only traditional religions are accepted"
+      ],
+      "correct_index": 2,
+      "explanation": "Religious freedom is a core Australian value. All people in Australia are free to practise any religion, or no religion, and all religious communities are treated with equal respect.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "religion",
+        "freedom"
+      ]
+    },
+    {
+      "id": 56,
+      "chapter_id": 4,
+      "text": "What should Australians do if they disagree with a law?",
+      "options": [
+        "Simply ignore the law",
+        "Use violence to protest",
+        "Work to change it through peaceful and democratic means",
+        "Leave Australia"
+      ],
+      "correct_index": 2,
+      "explanation": "Australians who disagree with a law should work to change it through democratic and peaceful means \u2014 such as contacting their elected representative, peaceful protest, or campaigning for change.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "democracy",
+        "law"
+      ]
+    },
+    {
+      "id": 57,
+      "chapter_id": 4,
+      "text": "How does Australia view the treatment of children?",
+      "options": [
+        "Children have no special legal protections",
+        "Children can work full-time at any age",
+        "Children have the right to safety, education, and care",
+        "Parents have total authority with no legal limits"
+      ],
+      "correct_index": 2,
+      "explanation": "Australian law strongly protects children's rights to safety, education, and proper care. Child abuse and exploitation are serious crimes.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "children",
+        "law"
+      ]
+    },
+    {
+      "id": 58,
+      "chapter_id": 4,
+      "text": "What does Australia's commitment to the environment involve?",
+      "options": [
+        "Only government agencies are responsible",
+        "Individuals, communities and government all share responsibility",
+        "Environmental laws don't apply to individuals",
+        "Only rural areas have environmental responsibilities"
+      ],
+      "correct_index": 1,
+      "explanation": "All Australians \u2014 individuals, communities, and government \u2014 share responsibility for caring for and protecting the Australian environment for future generations.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "environment"
+      ]
+    },
+    {
+      "id": 59,
+      "chapter_id": 4,
+      "text": "How does Australia view cultural diversity?",
+      "options": [
+        "All migrants must abandon their culture immediately",
+        "Cultural diversity is valued while all share Australian values",
+        "Non-English cultures are discouraged",
+        "Only British heritage is celebrated"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values and celebrates its cultural diversity. Migrants are encouraged to maintain their cultural heritage while also sharing Australian values like democracy, equality, and respect for the law.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "multiculturalism"
+      ]
+    },
+    {
+      "id": 60,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward people with disabilities?",
+      "options": [
+        "They have fewer rights than others",
+        "They should work in separate environments only",
+        "They have equal rights and are valued members of society",
+        "They cannot participate in public life"
+      ],
+      "correct_index": 2,
+      "explanation": "People with disabilities have equal rights in Australia and are valued members of society. Australian law protects people with disabilities from discrimination.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "disability",
+        "equality"
+      ]
+    },
+    {
+      "id": 61,
+      "chapter_id": 5,
+      "text": "At what age can Australian citizens vote in federal elections?",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "21"
+      ],
+      "correct_index": 2,
+      "explanation": "Australian citizens aged 18 and over can \u2014 and must \u2014 vote in federal elections. Voting is compulsory for all enrolled eligible citizens.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "voting",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 62,
+      "chapter_id": 5,
+      "text": "Which of the following is a right of Australian citizenship?",
+      "options": [
+        "Working illegally",
+        "Applying for an Australian passport",
+        "Avoiding jury duty",
+        "Not paying taxes"
+      ],
+      "correct_index": 1,
+      "explanation": "Australian citizens have the right to apply for an Australian passport, which allows them to travel internationally with the protection of the Australian government.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 63,
+      "chapter_id": 5,
+      "text": "What is jury duty?",
+      "options": [
+        "Working as a judge",
+        "Being required to serve on a jury in a court case",
+        "Paying court costs",
+        "Attending court as a witness only"
+      ],
+      "correct_index": 1,
+      "explanation": "Jury duty is a civic responsibility where eligible citizens may be called upon to serve as members of a jury to help decide legal cases fairly.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "responsibilities",
+        "law",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 64,
+      "chapter_id": 5,
+      "text": "Which of the following is a responsibility of Australian citizens?",
+      "options": [
+        "Compulsory military service",
+        "Voting in federal elections (compulsory)",
+        "Moving to a different city when asked",
+        "Speaking only English at all times"
+      ],
+      "correct_index": 1,
+      "explanation": "Voting in federal elections is compulsory for all enrolled Australian citizens aged 18 and over. Military service is currently voluntary.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "responsibilities",
+        "voting",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 65,
+      "chapter_id": 5,
+      "text": "Which privilege is available only to Australian citizens (not permanent residents)?",
+      "options": [
+        "Working in any private company",
+        "Applying for Australian citizenship",
+        "Voting in federal elections",
+        "Applying for a student visa"
+      ],
+      "correct_index": 2,
+      "explanation": "Voting in federal elections is a right and responsibility of Australian citizens only. Permanent residents do not have the right to vote in federal elections.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "citizenship",
+        "voting"
+      ]
+    },
+    {
+      "id": 66,
+      "chapter_id": 5,
+      "text": "Citizens can apply for government jobs that require Australian citizenship. What is an example?",
+      "options": [
+        "Working in a supermarket",
+        "Working in the Australian Public Service in security-sensitive roles",
+        "Running a small business",
+        "Working as a doctor in a private hospital"
+      ],
+      "correct_index": 1,
+      "explanation": "Some government roles, particularly in national security and sensitive areas of the Australian Public Service, require Australian citizenship. This is a privilege of citizenship.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "citizenship",
+        "employment"
+      ]
+    },
+    {
+      "id": 67,
+      "chapter_id": 5,
+      "text": "What does the Australian Citizenship Pledge include?",
+      "options": [
+        "A promise to never leave Australia",
+        "Loyalty to Australia and its King, and a commitment to Australian values",
+        "A promise to speak only English",
+        "A guarantee to pay a certain amount of tax"
+      ],
+      "correct_index": 1,
+      "explanation": "The Australian Citizenship Pledge includes pledging loyalty to Australia and the King, sharing Australian democratic beliefs, and upholding the rights and liberties of Australian people.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "citizenship",
+        "pledge"
+      ]
+    },
+    {
+      "id": 68,
+      "chapter_id": 5,
+      "text": "Who must enrol on the electoral roll?",
+      "options": [
+        "Only those who want to vote",
+        "All Australian citizens aged 18 and over",
+        "Only people born in Australia",
+        "Only people who have lived in Australia for 10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "All Australian citizens aged 18 and over are required to enrol on the electoral roll. It is both a legal obligation and a civic duty.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "citizenship",
+        "elections"
+      ]
+    },
+    {
+      "id": 69,
+      "chapter_id": 5,
+      "text": "What is the responsibility of Australians regarding the law?",
+      "options": [
+        "Only obey laws you agree with",
+        "Report all crimes to police, even if you disagree with them",
+        "Obey the law \u2014 ignorance is not an excuse",
+        "Only follow federal laws"
+      ],
+      "correct_index": 2,
+      "explanation": "All people in Australia must obey the law. Ignorance of the law is not an excuse for breaking it. This applies to everyone \u2014 citizens, permanent residents, and visitors.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "responsibilities",
+        "law"
+      ]
+    },
+    {
+      "id": 70,
+      "chapter_id": 5,
+      "text": "What English language ability is required for Australian citizenship?",
+      "options": [
+        "Fluent English at university level",
+        "Basic English knowledge",
+        "English is not required",
+        "Only written English"
+      ],
+      "correct_index": 1,
+      "explanation": "Applicants for Australian citizenship must have a basic knowledge of the English language. This helps ensure they can participate in Australian life.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "citizenship",
+        "language"
+      ]
+    },
+    {
+      "id": 71,
+      "chapter_id": 6,
+      "text": "Who commanded the First Fleet and became the first Governor of New South Wales?",
+      "options": [
+        "Captain James Cook",
+        "Captain Arthur Phillip",
+        "Governor Macquarie",
+        "Lord Hopetoun"
+      ],
+      "correct_index": 1,
+      "explanation": "Captain Arthur Phillip commanded the First Fleet of 11 ships that arrived at Sydney Cove on January 26, 1788. He became Australia's first Governor.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "colonial"
+      ]
+    },
+    {
+      "id": 72,
+      "chapter_id": 6,
+      "text": "When did the First Fleet arrive in Australia?",
+      "options": [
+        "1770",
+        "1788",
+        "1800",
+        "1901"
+      ],
+      "correct_index": 1,
+      "explanation": "The First Fleet arrived at Sydney Cove on January 26, 1788, establishing the first permanent European settlement in Australia. This date is commemorated as Australia Day.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "colonial"
+      ]
+    },
+    {
+      "id": 73,
+      "chapter_id": 6,
+      "text": "Who claimed the eastern coast of Australia for Britain in 1770?",
+      "options": [
+        "Arthur Phillip",
+        "Abel Tasman",
+        "Captain James Cook",
+        "Willem Janszoon"
+      ],
+      "correct_index": 2,
+      "explanation": "Captain James Cook sailed along Australia's eastern coast in 1770 and claimed it for Britain, naming it New South Wales. This paved the way for European settlement.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "exploration"
+      ]
+    },
+    {
+      "id": 74,
+      "chapter_id": 6,
+      "text": "What triggered a major wave of immigration to Australia in the 1850s?",
+      "options": [
+        "World War I",
+        "The First Fleet",
+        "The Gold Rush",
+        "Federation"
+      ],
+      "correct_index": 2,
+      "explanation": "The Gold Rush of the 1850s, particularly in Victoria at Ballarat and Bendigo, brought huge numbers of migrants to Australia from Britain, China, Europe, and America.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "immigration"
+      ]
+    },
+    {
+      "id": 75,
+      "chapter_id": 6,
+      "text": "When did Australian women gain the right to vote in federal elections?",
+      "options": [
+        "1788",
+        "1902",
+        "1920",
+        "1945"
+      ],
+      "correct_index": 1,
+      "explanation": "Australian women gained the right to vote in federal elections in 1902, making Australia one of the first countries in the world to grant women full voting rights at a national level.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "women",
+        "voting"
+      ]
+    },
+    {
+      "id": 76,
+      "chapter_id": 6,
+      "text": "What was the ANZAC landing at Gallipoli?",
+      "options": [
+        "A peaceful diplomatic mission",
+        "An Allied military campaign in World War I in 1915",
+        "Australia's entry into World War II",
+        "A naval battle off the Australian coast"
+      ],
+      "correct_index": 1,
+      "explanation": "The ANZAC (Australian and New Zealand Army Corps) landing at Gallipoli, Turkey occurred on April 25, 1915 during World War I. Though unsuccessful militarily, it forged a powerful national identity.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "ANZAC",
+        "war"
+      ]
+    },
+    {
+      "id": 77,
+      "chapter_id": 6,
+      "text": "When was the Gallipoli campaign?",
+      "options": [
+        "1914",
+        "1915",
+        "1916",
+        "1918"
+      ],
+      "correct_index": 1,
+      "explanation": "The Gallipoli campaign began on April 25, 1915, the date now commemorated as ANZAC Day across Australia and New Zealand.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "ANZAC",
+        "war"
+      ]
+    },
+    {
+      "id": 78,
+      "chapter_id": 6,
+      "text": "What is the 'Stolen Generations'?",
+      "options": [
+        "Generation of children born during Federation",
+        "Aboriginal and Torres Strait Islander children forcibly removed from families by government",
+        "Children who arrived on the First Fleet",
+        "Generation affected by the Gold Rush"
+      ],
+      "correct_index": 1,
+      "explanation": "The Stolen Generations refers to Aboriginal and Torres Strait Islander children who were forcibly removed from their families by government policies between the 1910s and 1970s.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "indigenous",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": 79,
+      "chapter_id": 6,
+      "text": "When did the Australian government formally apologise to the Stolen Generations?",
+      "options": [
+        "1990",
+        "2000",
+        "2008",
+        "2012"
+      ],
+      "correct_index": 2,
+      "explanation": "Prime Minister Kevin Rudd delivered a formal apology to the Stolen Generations and their families on February 13, 2008, a landmark moment in Australian reconciliation.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "indigenous",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": 80,
+      "chapter_id": 6,
+      "text": "Which city was Australia's temporary capital before Canberra?",
+      "options": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney",
+        "Adelaide"
+      ],
+      "correct_index": 1,
+      "explanation": "Melbourne served as Australia's temporary capital from Federation in 1901 until 1927, when Parliament House opened in Canberra.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "capital"
+      ]
+    },
+    {
+      "id": 81,
+      "chapter_id": 6,
+      "text": "What is the Great Barrier Reef?",
+      "options": [
+        "A mountain range in Queensland",
+        "The world's largest coral reef system off Queensland's coast",
+        "A river system in the Northern Territory",
+        "A sandstone formation in the outback"
+      ],
+      "correct_index": 1,
+      "explanation": "The Great Barrier Reef is the world's largest coral reef system, stretching over 2,300 kilometres along Queensland's coast. It is a UNESCO World Heritage Site.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "environment"
+      ]
+    },
+    {
+      "id": 82,
+      "chapter_id": 6,
+      "text": "What is Uluru (Ayers Rock)?",
+      "options": [
+        "A waterfall in Queensland",
+        "A large sandstone formation sacred to the Anangu people in the NT",
+        "A mountain in Western Australia",
+        "A coastal national park"
+      ],
+      "correct_index": 1,
+      "explanation": "Uluru (also called Ayers Rock) is a large sandstone rock formation in the Northern Territory. It is deeply sacred to the Anangu Aboriginal people and is a UNESCO World Heritage Site.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "indigenous",
+        "landmarks"
+      ]
+    },
+    {
+      "id": 83,
+      "chapter_id": 6,
+      "text": "What was significant about the 1967 Australian referendum?",
+      "options": [
+        "Women gained the right to vote",
+        "Aboriginal Australians were counted in the census and the Commonwealth gained power to make laws for them",
+        "Australia became a republic",
+        "The White Australia Policy ended"
+      ],
+      "correct_index": 1,
+      "explanation": "The 1967 referendum was a landmark moment where over 90% of Australians voted 'Yes' \u2014 allowing Aboriginal Australians to be counted in the census and giving the federal government power to make laws for them.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "indigenous",
+        "referendum"
+      ]
+    },
+    {
+      "id": 84,
+      "chapter_id": 6,
+      "text": "What is the Mabo decision?",
+      "options": [
+        "A 1901 Federation decision",
+        "A 1992 High Court ruling recognising native title rights of Aboriginal Australians",
+        "A 1975 immigration policy change",
+        "A 1984 change to the national anthem"
+      ],
+      "correct_index": 1,
+      "explanation": "The 1992 Mabo decision by the High Court recognised the native title rights of Aboriginal Australians, overturning the concept of 'terra nullius' (the idea that Australia was unoccupied before European settlement).",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "indigenous",
+        "law"
+      ]
+    },
+    {
+      "id": 85,
+      "chapter_id": 6,
+      "text": "Australia hosted which major international event in Sydney in 2000?",
+      "options": [
+        "The FIFA World Cup",
+        "The Rugby World Cup",
+        "The Summer Olympic Games",
+        "The Commonwealth Games"
+      ],
+      "correct_index": 2,
+      "explanation": "Sydney hosted the 2000 Summer Olympic Games, which were widely regarded as one of the best Olympics ever held. Australia won 58 medals including 16 gold.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "sport"
+      ]
+    },
+    {
+      "id": 86,
+      "chapter_id": 6,
+      "text": "What is Australia's Murray-Darling river system?",
+      "options": [
+        "A river system in Western Australia",
+        "Australia's largest and most important inland river system",
+        "A river forming the border with New Zealand",
+        "A coastal river in Queensland"
+      ],
+      "correct_index": 1,
+      "explanation": "The Murray-Darling is Australia's largest and most important river system, flowing through Queensland, New South Wales, Victoria, and South Australia, supporting major agricultural regions.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "environment"
+      ]
+    },
+    {
+      "id": 87,
+      "chapter_id": 6,
+      "text": "What does ANZAC stand for?",
+      "options": [
+        "Australian and New Zealand Allied Corps",
+        "Australian and New Zealand Army Corps",
+        "Alliance of Nations and Zealand Armed Corps",
+        "Australia's National Zeal and Courage"
+      ],
+      "correct_index": 1,
+      "explanation": "ANZAC stands for Australian and New Zealand Army Corps \u2014 the combined forces of Australia and New Zealand who fought together in World War I.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "ANZAC",
+        "war"
+      ]
+    },
+    {
+      "id": 88,
+      "chapter_id": 6,
+      "text": "What is the significance of January 26?",
+      "options": [
+        "Federation Day",
+        "ANZAC Day",
+        "Australia Day \u2014 anniversary of the First Fleet's arrival in 1788",
+        "Constitution Day"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia Day on January 26 marks the anniversary of the arrival of the First Fleet at Sydney Cove in 1788. It is a national public holiday.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "national days"
+      ]
+    },
+    {
+      "id": 89,
+      "chapter_id": 6,
+      "text": "What is the significance of April 25?",
+      "options": [
+        "Federation Day",
+        "Australia Day",
+        "ANZAC Day",
+        "Constitution Day"
+      ],
+      "correct_index": 2,
+      "explanation": "April 25 is ANZAC Day, commemorating all Australians and New Zealanders who served and died in wars, conflicts, and peacekeeping operations.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "ANZAC",
+        "national days"
+      ]
+    },
+    {
+      "id": 90,
+      "chapter_id": 6,
+      "text": "When did Australia introduce decimal currency (the dollar)?",
+      "options": [
+        "1901",
+        "1945",
+        "1966",
+        "1988"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia introduced decimal currency on February 14, 1966, replacing the Australian pound with the Australian dollar and cents.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "economy"
+      ]
+    },
+    {
+      "id": 91,
+      "chapter_id": 3,
+      "text": "What is a referendum in Australia?",
+      "options": [
+        "A general election for the Prime Minister",
+        "A national vote to change the Constitution",
+        "A vote of no confidence in the government",
+        "A local government poll"
+      ],
+      "correct_index": 1,
+      "explanation": "A referendum is a national vote where Australian citizens can vote on proposed changes to the Constitution. Changes require a majority of voters nationally AND a majority of voters in a majority of states.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "constitution",
+        "democracy"
+      ]
+    },
+    {
+      "id": 92,
+      "chapter_id": 3,
+      "text": "What does the Senate represent in Australia's Parliament?",
+      "options": [
+        "The people based on population",
+        "The states and territories with equal representation",
+        "Only the political parties",
+        "The Governor-General's interests"
+      ],
+      "correct_index": 1,
+      "explanation": "The Senate represents the states and territories equally \u2014 each state has 12 senators regardless of population, giving smaller states equal representation.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "senate"
+      ]
+    },
+    {
+      "id": 93,
+      "chapter_id": 3,
+      "text": "What does the House of Representatives represent?",
+      "options": [
+        "The states equally",
+        "The people, with seats allocated based on population",
+        "The political parties proportionally",
+        "Local governments"
+      ],
+      "correct_index": 1,
+      "explanation": "The House of Representatives represents the people, with seats allocated based on population. More populous states have more seats.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "parliament"
+      ]
+    },
+    {
+      "id": 94,
+      "chapter_id": 3,
+      "text": "What is the role of the opposition in Australian democracy?",
+      "options": [
+        "To always support the government",
+        "To challenge and scrutinise the government's policies",
+        "To run state governments",
+        "To advise the Governor-General"
+      ],
+      "correct_index": 1,
+      "explanation": "The opposition's essential role in democracy is to challenge, scrutinise, and hold the government accountable for its decisions and policies.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "democracy"
+      ]
+    },
+    {
+      "id": 95,
+      "chapter_id": 3,
+      "text": "Which of the following is the state government mainly responsible for?",
+      "options": [
+        "Foreign affairs",
+        "Immigration policy",
+        "Schools, hospitals, state roads, and police",
+        "Defence of Australia"
+      ],
+      "correct_index": 2,
+      "explanation": "State governments are primarily responsible for schools, hospitals, state roads, police forces, public transport, and other services within their state.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "state"
+      ]
+    },
+    {
+      "id": 96,
+      "chapter_id": 1,
+      "text": "Which of the following is NOT one of Australia's six states?",
+      "options": [
+        "Tasmania",
+        "Queensland",
+        "Northern Territory",
+        "Victoria"
+      ],
+      "correct_index": 2,
+      "explanation": "The Northern Territory is a territory, not a state. Australia's 6 states are: New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "states"
+      ]
+    },
+    {
+      "id": 97,
+      "chapter_id": 4,
+      "text": "How should Australians handle disputes with neighbours or others?",
+      "options": [
+        "Use physical force to resolve them",
+        "Peacefully through discussion, mediation, or the legal system",
+        "Ignore all disputes",
+        "Always involve the police"
+      ],
+      "correct_index": 1,
+      "explanation": "Australians are expected to resolve disputes peacefully \u2014 through discussion, community mediation services, or legal channels. Violence is never an acceptable way to resolve conflict.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "community"
+      ]
+    },
+    {
+      "id": 98,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward forced marriage?",
+      "options": [
+        "It is allowed in some cultural contexts",
+        "It is a family decision that is legal",
+        "It is completely illegal in Australia",
+        "It is allowed with parental consent"
+      ],
+      "correct_index": 2,
+      "explanation": "Forced marriage is completely illegal in Australia. All marriages must be entered into freely and with full consent. This applies regardless of cultural or religious background.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "values",
+        "law",
+        "marriage"
+      ]
+    },
+    {
+      "id": 99,
+      "chapter_id": 5,
+      "text": "Can Australian citizens also hold citizenship of another country?",
+      "options": [
+        "Never \u2014 you must renounce all other citizenships",
+        "Yes \u2014 Australia allows dual citizenship in most cases",
+        "Only if the other country is in the Commonwealth",
+        "Only if you lived there for 10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia generally permits dual citizenship. Australian citizens can hold citizenship of another country at the same time, though some government positions may require giving up other citizenships.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "citizenship",
+        "rights"
+      ]
+    },
+    {
+      "id": 100,
+      "chapter_id": 3,
+      "text": "What is the official name of Australia's government?",
+      "options": [
+        "The Government of Australia",
+        "The Commonwealth of Australia",
+        "The Federal Republic of Australia",
+        "The Australian Monarchy"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia's official name is the Commonwealth of Australia, established at Federation on January 1, 1901.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "federation"
+      ]
+    },
+    {
+      "id": 101,
+      "chapter_id": 6,
+      "text": "What is the Great Dividing Range?",
+      "options": [
+        "The border between Australia and New Zealand",
+        "A mountain range running along eastern Australia",
+        "A desert in central Australia",
+        "The reef along Queensland's coast"
+      ],
+      "correct_index": 1,
+      "explanation": "The Great Dividing Range is a mountain range running along eastern Australia, separating the coastal regions from the inland areas. It spans Queensland, New South Wales, Victoria, and into the Australian Capital Territory.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "environment"
+      ]
+    },
+    {
+      "id": 102,
+      "chapter_id": 2,
+      "text": "What does Australia's democratic system require of its leaders?",
+      "options": [
+        "Leaders can govern without elections for life",
+        "Leaders are accountable to the people and can be voted out",
+        "Only wealthy people can become leaders",
+        "Leaders are chosen by the King"
+      ],
+      "correct_index": 1,
+      "explanation": "In Australia's democracy, leaders are accountable to the people. They must face regular elections and can be voted out if they do not represent the people's wishes.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "democracy",
+        "government"
+      ]
+    },
+    {
+      "id": 103,
+      "chapter_id": 4,
+      "text": "What does Australia's commitment to 'a fair go' mean for new migrants?",
+      "options": [
+        "They get free government housing",
+        "They have equal opportunities as other Australians to succeed",
+        "They are given preference in jobs",
+        "They must wait 10 years to access services"
+      ],
+      "correct_index": 1,
+      "explanation": "The 'fair go' principle means all people in Australia, including newly arrived migrants, have equal opportunities to work, study, and succeed based on their merits and efforts.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "immigration",
+        "equality"
+      ]
+    },
+    {
+      "id": 104,
+      "chapter_id": 1,
+      "text": "What are the three main elements on the Australian flag?",
+      "options": [
+        "Kangaroo, emu, and Southern Cross",
+        "Union Jack, Commonwealth Star, and Southern Cross",
+        "Wattle, kangaroo, and flag pole",
+        "Stars, stripes, and the Union Jack"
+      ],
+      "correct_index": 1,
+      "explanation": "The Australian flag features three elements: the Union Jack (representing Australia's British heritage), the Commonwealth Star (representing the states and territories), and the Southern Cross constellation.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "symbols",
+        "flag"
+      ]
+    },
+    {
+      "id": 105,
+      "chapter_id": 3,
+      "text": "How is the Prime Minister chosen in Australia?",
+      "options": [
+        "By direct public election",
+        "By the Governor-General's appointment",
+        "As the leader of the party with majority support in the House of Representatives",
+        "By the Senate"
+      ],
+      "correct_index": 2,
+      "explanation": "The Prime Minister is the leader of the political party or coalition that commands a majority in the House of Representatives. The Governor-General formally appoints them.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "prime minister"
+      ]
+    },
+    {
+      "id": 106,
+      "chapter_id": 6,
+      "text": "Which European explorer was the first to sail along part of Australia's coast?",
+      "options": [
+        "Captain James Cook",
+        "Arthur Phillip",
+        "Abel Tasman",
+        "Willem Janszoon"
+      ],
+      "correct_index": 3,
+      "explanation": "Willem Janszoon was the first European to map part of Australia's coastline, landing in Queensland in 1606. Captain Cook later mapped the eastern coast in 1770.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "exploration"
+      ]
+    },
+    {
+      "id": 107,
+      "chapter_id": 5,
+      "text": "What happens if an eligible Australian citizen does not vote in a federal election?",
+      "options": [
+        "Nothing \u2014 voting is optional",
+        "They may be fined",
+        "They lose their citizenship",
+        "They are removed from the electoral roll"
+      ],
+      "correct_index": 1,
+      "explanation": "If an eligible Australian citizen does not vote and cannot provide a valid reason, they may receive a fine. Voting is compulsory in Australia.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "citizenship",
+        "responsibilities"
+      ]
+    },
+    {
+      "id": 108,
+      "chapter_id": 2,
+      "text": "What are Australians' political freedoms?",
+      "options": [
+        "Only the two major parties are allowed",
+        "Australians can form, join, or vote for any legal political party",
+        "Only Australian-born citizens can join political parties",
+        "Political parties must be approved by the King"
+      ],
+      "correct_index": 1,
+      "explanation": "Australians have full political freedom \u2014 they can form new parties, join existing parties, campaign for political causes, and vote for any registered party or candidate.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "democracy",
+        "political freedom"
+      ]
+    },
+    {
+      "id": 109,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward the English language?",
+      "options": [
+        "All migrants must speak perfect English immediately",
+        "English is important for participation in Australian life but migrants can use other languages at home",
+        "Non-English speakers cannot live in Australia",
+        "Only English may be spoken in public"
+      ],
+      "correct_index": 1,
+      "explanation": "While English is essential for fully participating in Australian life, migrants are free to use their home languages within their communities and families. English language support is provided to help integration.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "values",
+        "language",
+        "multiculturalism"
+      ]
+    },
+    {
+      "id": 110,
+      "chapter_id": 6,
+      "text": "What was the 'White Australia Policy'?",
+      "options": [
+        "A policy about environmental protection",
+        "Immigration restrictions based on race that limited non-European immigration",
+        "A policy about white-coloured paint on government buildings",
+        "A policy about education"
+      ],
+      "correct_index": 1,
+      "explanation": "The White Australia Policy was a set of policies from 1901 onwards that restricted immigration based on race, particularly limiting Asian and non-European immigration. It was progressively dismantled from the 1960s and effectively ended in 1973.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "immigration",
+        "policy"
+      ]
+    },
+    {
+      "id": 111,
+      "chapter_id": 1,
+      "text": "What are the names of Australia's two self-governing territories?",
+      "options": [
+        "Northern Territory and Australian Capital Territory",
+        "Tasmania and Northern Territory",
+        "Queensland and Western Australia",
+        "South Australia and Victoria"
+      ],
+      "correct_index": 0,
+      "explanation": "Australia has two self-governing territories: the Northern Territory (NT) and the Australian Capital Territory (ACT), where Canberra is located. They have some powers like states but the federal government can override their laws.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "territories",
+        "government"
+      ]
+    },
+    {
+      "id": 112,
+      "chapter_id": 1,
+      "text": "What currency does Australia use?",
+      "options": [
+        "Australian Pound",
+        "Australian Dollar",
+        "Australian Franc",
+        "Pacific Dollar"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia uses the Australian Dollar (AUD), introduced on 14 February 1966 when Australia converted from the Australian pound to decimal currency.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "currency",
+        "history"
+      ]
+    },
+    {
+      "id": 113,
+      "chapter_id": 1,
+      "text": "What is the name of Australia's national airline?",
+      "options": [
+        "Virgin Australia",
+        "Jetstar",
+        "Qantas",
+        "Rex Airlines"
+      ],
+      "correct_index": 2,
+      "explanation": "Qantas is Australia's national carrier and largest airline by fleet size and international flights. Its name stands for Queensland and Northern Territory Aerial Services, founded in 1920.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "culture",
+        "national-symbols"
+      ]
+    },
+    {
+      "id": 114,
+      "chapter_id": 1,
+      "text": "Which of the following is NOT one of Australia's territories?",
+      "options": [
+        "Christmas Island",
+        "Cocos (Keeling) Islands",
+        "Lord Howe Island",
+        "Norfolk Island"
+      ],
+      "correct_index": 2,
+      "explanation": "Lord Howe Island is part of New South Wales, not a separate territory. Australia's external territories include Norfolk Island, Christmas Island, Cocos (Keeling) Islands, and several Antarctic territories.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "territories",
+        "geography"
+      ]
+    },
+    {
+      "id": 115,
+      "chapter_id": 1,
+      "text": "What is the name of Australia's national day, celebrated on 26 January?",
+      "options": [
+        "Federation Day",
+        "Australia Day",
+        "Commonwealth Day",
+        "Republic Day"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia Day is the official national day of Australia, celebrated each year on 26 January. It marks the anniversary of the 1788 arrival of the First Fleet at Port Jackson, New South Wales.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "national-day",
+        "history"
+      ]
+    },
+    {
+      "id": 116,
+      "chapter_id": 1,
+      "text": "What is the name of the large desert in central Australia?",
+      "options": [
+        "Simpson Desert",
+        "Nullarbor Plain",
+        "The Great Sandy Desert",
+        "The Outback (all of the above)"
+      ],
+      "correct_index": 3,
+      "explanation": "Central Australia is known as 'The Outback' and contains several large deserts including the Simpson Desert, Great Sandy Desert, Great Victoria Desert, and Tanami Desert.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "landscape"
+      ]
+    },
+    {
+      "id": 117,
+      "chapter_id": 1,
+      "text": "Which statement about the Aboriginal and Torres Strait Islander peoples is correct?",
+      "options": [
+        "They arrived in Australia about 1,000 years ago",
+        "They are two distinct groups of Indigenous Australians",
+        "They all speak the same language",
+        "They were the second people to arrive in Australia"
+      ],
+      "correct_index": 1,
+      "explanation": "Aboriginal peoples and Torres Strait Islander peoples are two distinct groups of Indigenous Australians. Aboriginal peoples are from mainland Australia and Tasmania, while Torres Strait Islander peoples are from the islands between Australia and Papua New Guinea.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "indigenous",
+        "culture"
+      ]
+    },
+    {
+      "id": 118,
+      "chapter_id": 1,
+      "text": "What is the significance of the blue background and Union Jack on the Australian flag?",
+      "options": [
+        "They represent the ocean and New Zealand",
+        "They represent Australia's British heritage and membership of the Commonwealth",
+        "They represent the sky and Antarctica",
+        "They represent Australia's democratic and republican values"
+      ],
+      "correct_index": 1,
+      "explanation": "The blue background (Blue Ensign) and the Union Jack (flag of the United Kingdom) on the Australian flag represent Australia's historical links to Britain and its membership of the Commonwealth of Nations.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "flag",
+        "history"
+      ]
+    },
+    {
+      "id": 119,
+      "chapter_id": 2,
+      "text": "What is a secret ballot?",
+      "options": [
+        "A ballot only for members of parliament",
+        "Voting in private so no one can see how you voted",
+        "A ballot conducted in secret meetings",
+        "Votes that are not counted publicly"
+      ],
+      "correct_index": 1,
+      "explanation": "A secret ballot means you vote in private. No one \u2014 not your employer, family member, or government \u2014 can see how you voted. This protects voters from pressure or punishment based on their vote.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "democracy"
+      ]
+    },
+    {
+      "id": 120,
+      "chapter_id": 2,
+      "text": "In Australia, who manages the conduct of federal elections?",
+      "options": [
+        "The Prime Minister's department",
+        "The Australian Electoral Commission (AEC)",
+        "The High Court of Australia",
+        "The Department of Home Affairs"
+      ],
+      "correct_index": 1,
+      "explanation": "The Australian Electoral Commission (AEC) is an independent statutory authority that manages federal elections, by-elections and referendums. It enrols voters and conducts elections impartially.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "elections",
+        "institutions"
+      ]
+    },
+    {
+      "id": 121,
+      "chapter_id": 2,
+      "text": "Which of the following is a democratic freedom that Australians enjoy?",
+      "options": [
+        "The freedom to ignore Australian laws you disagree with",
+        "The freedom to join or not join any legal organisation",
+        "The freedom to avoid paying taxes",
+        "The freedom to own any type of weapon"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom of association means Australians can join or not join any legal organisation, including political parties, trade unions, and community groups. This is a fundamental democratic freedom protected in Australia.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "freedoms",
+        "democracy"
+      ]
+    },
+    {
+      "id": 122,
+      "chapter_id": 2,
+      "text": "What does 'freedom of the press' mean in Australia?",
+      "options": [
+        "Newspapers are owned by the government",
+        "News is always free to access online",
+        "The media can report on government and public matters without censorship",
+        "Only Australian citizens can become journalists"
+      ],
+      "correct_index": 2,
+      "explanation": "Freedom of the press means the media can report on government actions and matters of public interest without government censorship or interference. This is an important part of keeping government accountable in a democracy.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "freedom",
+        "press",
+        "democracy"
+      ]
+    },
+    {
+      "id": 123,
+      "chapter_id": 2,
+      "text": "Can Australians peacefully protest against government decisions?",
+      "options": [
+        "No, protesting is illegal in Australia",
+        "Yes, peaceful protest is a democratic right",
+        "Only if the protest is approved by parliament",
+        "Only members of political parties can protest"
+      ],
+      "correct_index": 1,
+      "explanation": "Yes, the right to peaceful protest is a democratic freedom in Australia. Australians can demonstrate, march, and express dissatisfaction with government decisions, as long as protests remain peaceful and lawful.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "protest",
+        "democracy"
+      ]
+    },
+    {
+      "id": 124,
+      "chapter_id": 2,
+      "text": "Which of the following BEST describes Australia's system of government?",
+      "options": [
+        "A monarchy with a king making all decisions",
+        "A constitutional monarchy and parliamentary democracy",
+        "A republic with a directly elected president",
+        "A communist state"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia is a constitutional monarchy and parliamentary democracy. The King of Australia (currently King Charles III) is head of state, but real power lies with elected representatives in parliament. The Australian Constitution sets out the rules.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "democracy"
+      ]
+    },
+    {
+      "id": 125,
+      "chapter_id": 2,
+      "text": "What does 'presumption of innocence' mean in the Australian legal system?",
+      "options": [
+        "Everyone is assumed to be guilty until proven otherwise",
+        "Only citizens have the right to a fair trial",
+        "A person is considered innocent until proven guilty in a court",
+        "Police can detain anyone they suspect"
+      ],
+      "correct_index": 2,
+      "explanation": "Presumption of innocence is a cornerstone of Australian law: every person accused of a crime is considered innocent until the prosecution proves their guilt beyond reasonable doubt in a court of law.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "rights",
+        "justice"
+      ]
+    },
+    {
+      "id": 126,
+      "chapter_id": 2,
+      "text": "How can Australians formally participate in their democracy between elections?",
+      "options": [
+        "Only by voting",
+        "By contacting their local member of parliament, signing petitions, and joining community groups",
+        "Democracy only occurs during election periods",
+        "By paying a special democracy fee to the government"
+      ],
+      "correct_index": 1,
+      "explanation": "Australians can participate in democracy in many ways: contacting their local MP, writing to senators, signing petitions, joining political parties or community groups, and attending public meetings. Democracy is ongoing, not just at election time.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "participation",
+        "democracy"
+      ]
+    },
+    {
+      "id": 127,
+      "chapter_id": 2,
+      "text": "What is 'universal suffrage' as it applies to Australia?",
+      "options": [
+        "Only property owners can vote",
+        "All adult Australian citizens have the right to vote",
+        "Only men can vote in Australia",
+        "Voting is optional for all Australians"
+      ],
+      "correct_index": 1,
+      "explanation": "Universal suffrage means all eligible adult citizens have the right to vote, regardless of gender, race, religion or wealth. In Australia, all citizens 18 and over must enrol and vote in federal elections.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "rights"
+      ]
+    },
+    {
+      "id": 128,
+      "chapter_id": 2,
+      "text": "In Australia, people from all backgrounds have the right to practice their own religion. This is called:",
+      "options": [
+        "Multiculturalism",
+        "Secularism",
+        "Freedom of religion",
+        "Tolerance policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Freedom of religion is the right to practice any religion or no religion at all. Australia is a secular country \u2014 the government does not favour any religion \u2014 but guarantees all people the freedom to follow their own faith peacefully.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "religion",
+        "freedom"
+      ]
+    },
+    {
+      "id": 129,
+      "chapter_id": 2,
+      "text": "What is the purpose of having more than one political party in Australia?",
+      "options": [
+        "To make voting more complicated",
+        "To give voters choice and ensure governments are accountable through competition",
+        "Only one party is allowed to govern at a time",
+        "It is required by the UN"
+      ],
+      "correct_index": 1,
+      "explanation": "Multiple political parties give voters choice and create competition for power. This competition keeps governments accountable \u2014 parties must answer to voters or risk losing power to an alternative. It is a key feature of democracy.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "political-parties",
+        "democracy"
+      ]
+    },
+    {
+      "id": 130,
+      "chapter_id": 2,
+      "text": "In Australian democracy, who holds the ultimate political power?",
+      "options": [
+        "The Prime Minister",
+        "The King of Australia",
+        "The Australian people through their elected representatives",
+        "The High Court"
+      ],
+      "correct_index": 2,
+      "explanation": "In Australia's democracy, ultimate political power rests with the Australian people. Citizens elect representatives who make laws and form government on their behalf. The people can remove governments at elections.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "democracy",
+        "sovereignty"
+      ]
+    },
+    {
+      "id": 131,
+      "chapter_id": 2,
+      "text": "Which of the following rights does the Australian government CANNOT take away from citizens without due process of law?",
+      "options": [
+        "The right to free housing",
+        "The right to liberty and a fair trial",
+        "The right to employment",
+        "The right to free internet access"
+      ],
+      "correct_index": 1,
+      "explanation": "The right to liberty (freedom from arbitrary detention) and the right to a fair trial are fundamental rights. The government cannot imprison a person without following proper legal process, including a fair hearing before an independent court.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "justice",
+        "law"
+      ]
+    },
+    {
+      "id": 132,
+      "chapter_id": 3,
+      "text": "What is the role of the Governor-General in Australia?",
+      "options": [
+        "To make all major laws for Australia",
+        "To represent the King and perform ceremonial and constitutional duties",
+        "To lead the Australian Army",
+        "To appoint all members of parliament"
+      ],
+      "correct_index": 1,
+      "explanation": "The Governor-General is the King's representative in Australia. The role is largely ceremonial \u2014 opening parliament, swearing in ministers, and signing bills into law. The Governor-General acts on the advice of the Prime Minister in most matters.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "governor-general",
+        "constitution"
+      ]
+    },
+    {
+      "id": 133,
+      "chapter_id": 3,
+      "text": "What happens after a federal election if one party does not win a majority of seats?",
+      "options": [
+        "A new election is held immediately",
+        "The party with the most seats forms a minority or coalition government",
+        "The previous government stays in power forever",
+        "The Governor-General chooses the government"
+      ],
+      "correct_index": 1,
+      "explanation": "If no single party wins a majority, the party with the most seats may form a minority government or negotiate a coalition with other parties or independent members. Australia has had both minority and coalition governments.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "elections",
+        "parliament"
+      ]
+    },
+    {
+      "id": 134,
+      "chapter_id": 3,
+      "text": "What is the main difference between a state and a territory in Australia?",
+      "options": [
+        "States are larger than territories",
+        "States have their own constitutions; territories get their powers from federal parliament",
+        "Territories have more power than states",
+        "There is no difference"
+      ],
+      "correct_index": 1,
+      "explanation": "States have their own constitutions and inherent powers. Territories (like ACT and NT) derive their governing powers from the federal parliament, which can override territory laws. States cannot be overridden in their areas of responsibility.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "states",
+        "territories",
+        "federation"
+      ]
+    },
+    {
+      "id": 135,
+      "chapter_id": 4,
+      "text": "What is the Australian value of 'respect for the equal worth of all individuals'?",
+      "options": [
+        "Everyone earns the same wage",
+        "Every person is valued equally regardless of background, gender or religion",
+        "All people must follow the same religion",
+        "All people must speak only English"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values the equal worth of all people. This means every individual deserves dignity and respect, regardless of their cultural background, gender, religion, or lifestyle. Discrimination based on these characteristics is unlawful.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "equality",
+        "values"
+      ]
+    },
+    {
+      "id": 136,
+      "chapter_id": 4,
+      "text": "Is polygamy (being married to more than one person at a time) allowed in Australia?",
+      "options": [
+        "Yes, if part of your cultural tradition",
+        "Yes, with a special government permit",
+        "No, it is illegal under Australian law",
+        "It depends on which state you live in"
+      ],
+      "correct_index": 2,
+      "explanation": "Polygamy is illegal in Australia. Australian law allows marriage only between two people. No cultural or religious tradition overrides Australian law on this matter.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "law",
+        "values",
+        "marriage"
+      ]
+    },
+    {
+      "id": 137,
+      "chapter_id": 4,
+      "text": "In Australia, who is responsible for raising and protecting children?",
+      "options": [
+        "The government alone",
+        "Children are responsible for themselves from age 10",
+        "Parents and guardians, with support from the community and government",
+        "Only schools and teachers"
+      ],
+      "correct_index": 2,
+      "explanation": "In Australia, parents and guardians have the primary responsibility for raising and protecting children. The broader community and government also play a supporting role. Child abuse and neglect are serious crimes.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "children",
+        "family",
+        "values"
+      ]
+    },
+    {
+      "id": 138,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward gender equality in the workplace?",
+      "options": [
+        "Men should be paid more than women for the same work",
+        "Women and men should have equal opportunities and equal pay for equal work",
+        "Women should not work in certain industries",
+        "It is up to each business owner to decide"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia is committed to gender equality in the workplace. Women and men should have equal opportunities for employment, advancement, and equal pay for equal work. Workplace discrimination based on gender is illegal.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "gender-equality",
+        "values",
+        "work"
+      ]
+    },
+    {
+      "id": 139,
+      "chapter_id": 4,
+      "text": "How are disputes between people expected to be resolved in Australia?",
+      "options": [
+        "Through physical confrontation",
+        "Peacefully, through discussion, mediation, or the legal system",
+        "By the strongest or wealthiest person winning",
+        "By government officials deciding for them"
+      ],
+      "correct_index": 1,
+      "explanation": "Australians are expected to resolve disputes peacefully \u2014 through discussion, mediation, or the legal system. Violence, threats, and intimidation are not acceptable. The legal system exists to resolve disputes fairly.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "conflict-resolution",
+        "values"
+      ]
+    },
+    {
+      "id": 140,
+      "chapter_id": 4,
+      "text": "In Australia, the law protects all people regardless of their cultural background. This is known as:",
+      "options": [
+        "Cultural privilege",
+        "Equality before the law",
+        "The cultural exception rule",
+        "Constitutional immunity"
+      ],
+      "correct_index": 1,
+      "explanation": "Equality before the law means every person \u2014 regardless of cultural background, wealth, religion or gender \u2014 has the same legal rights and protections. No one is above the law, and everyone deserves equal treatment in the legal system.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "equality",
+        "law",
+        "values"
+      ]
+    },
+    {
+      "id": 141,
+      "chapter_id": 4,
+      "text": "What does Australia value about its multicultural society?",
+      "options": [
+        "Everyone should abandon their culture and become 'Australian'",
+        "People can maintain their cultural identity while also being proud Australians",
+        "Only English-speaking cultures are valued",
+        "Cultural diversity causes too many problems"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values its multicultural society. People can maintain their cultural traditions, languages, and practices while also embracing Australian values and identity. Multiculturalism is a source of strength and diversity.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "multiculturalism",
+        "values"
+      ]
+    },
+    {
+      "id": 142,
+      "chapter_id": 4,
+      "text": "Is it acceptable in Australia to use violence against someone because of their religion?",
+      "options": [
+        "Yes, if their religion is different from the majority",
+        "No, religious-based violence is a crime in Australia",
+        "It depends on the religion",
+        "Only if authorised by community leaders"
+      ],
+      "correct_index": 1,
+      "explanation": "Absolutely not. Religious-based violence is a serious crime in Australia. Australia values freedom of religion and protects people from discrimination and violence based on their religious beliefs or practices.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "religion",
+        "values",
+        "violence"
+      ]
+    },
+    {
+      "id": 143,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward older people?",
+      "options": [
+        "Older people should be ignored in society",
+        "Older people deserve respect and should be able to live with dignity",
+        "Older people should give up their rights to younger generations",
+        "Older people are not allowed to participate in community life"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values and respects older people. They deserve to live with dignity, respect, and security. Elder abuse \u2014 whether physical, financial, or emotional \u2014 is unacceptable and often a criminal offence.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "elderly",
+        "respect",
+        "values"
+      ]
+    },
+    {
+      "id": 144,
+      "chapter_id": 4,
+      "text": "Under Australian values, what should you do if you witness someone being discriminated against?",
+      "options": [
+        "Ignore it as it is not your business",
+        "Join in to avoid causing trouble",
+        "Report it or speak up \u2014 discrimination is unacceptable",
+        "Only get involved if the person is a family member"
+      ],
+      "correct_index": 2,
+      "explanation": "Australian values encourage people to stand up against discrimination. Discrimination based on race, gender, religion, disability or other characteristics is unlawful. People who witness discrimination are encouraged to report it.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "discrimination",
+        "values",
+        "community"
+      ]
+    },
+    {
+      "id": 145,
+      "chapter_id": 4,
+      "text": "What is Australia's position on corruption by public officials?",
+      "options": [
+        "Minor corruption is acceptable if it benefits the community",
+        "Corruption is illegal and completely unacceptable",
+        "Corruption is acceptable if it is part of a cultural tradition",
+        "Public officials can accept gifts of any amount"
+      ],
+      "correct_index": 1,
+      "explanation": "Corruption by public officials is illegal and completely contrary to Australian values. Australia expects its public servants, police officers, and politicians to act honestly and in the public interest. Corruption undermines democracy.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "corruption",
+        "values",
+        "law"
+      ]
+    },
+    {
+      "id": 146,
+      "chapter_id": 5,
+      "text": "What travel document can only Australian citizens obtain?",
+      "options": [
+        "A work visa",
+        "An Australian passport",
+        "A permanent resident card",
+        "A Commonwealth travel pass"
+      ],
+      "correct_index": 1,
+      "explanation": "An Australian passport is available only to Australian citizens. It allows visa-free or visa-on-arrival access to many countries and is one of the key privileges of Australian citizenship.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "passport",
+        "citizenship",
+        "rights"
+      ]
+    },
+    {
+      "id": 147,
+      "chapter_id": 5,
+      "text": "What help can Australian citizens receive from Australian embassies when overseas?",
+      "options": [
+        "Free flights home",
+        "Consular assistance \u2014 help in emergencies such as lost passports, arrest, or serious illness",
+        "Free accommodation in any country",
+        "Free medical treatment in all countries"
+      ],
+      "correct_index": 1,
+      "explanation": "Australian citizens overseas can receive consular assistance from Australian embassies and consulates. This includes help if you lose your passport, are arrested, have a serious accident or illness, or need emergency assistance.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "consular",
+        "citizenship",
+        "overseas"
+      ]
+    },
+    {
+      "id": 148,
+      "chapter_id": 5,
+      "text": "What is the responsibility of Australian citizens regarding taxes?",
+      "options": [
+        "Only businesses pay tax, not individuals",
+        "Citizens must pay the taxes required by law",
+        "Taxes are optional donations to the government",
+        "Only permanent residents pay income tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Paying taxes is a legal responsibility of all Australians, including citizens and permanent residents who earn income. Taxes fund public services like healthcare, education, roads, and defence.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "taxes",
+        "responsibility"
+      ]
+    },
+    {
+      "id": 149,
+      "chapter_id": 5,
+      "text": "Can Australian citizens be called for jury duty?",
+      "options": [
+        "No, only judges decide court cases in Australia",
+        "Yes, jury service is a civic responsibility of Australian citizens",
+        "Only lawyers can serve on juries",
+        "Jury duty only applies to migrants"
+      ],
+      "correct_index": 1,
+      "explanation": "Jury duty is a civic responsibility. Australian citizens who are called for jury duty are generally required to serve. Juries play a vital role in ensuring fair trials in the Australian justice system.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "jury",
+        "responsibility",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 150,
+      "chapter_id": 5,
+      "text": "What is the responsibility of parents regarding their children's education in Australia?",
+      "options": [
+        "Education is optional in Australia",
+        "Parents must ensure their children receive education, either at school or at home",
+        "Only the government is responsible for education",
+        "Education is only required from age 12"
+      ],
+      "correct_index": 1,
+      "explanation": "In Australia, education is compulsory for children. Parents must ensure their children attend school or receive approved home schooling. The age of compulsory schooling varies slightly by state but is generally from 6 to 16 years.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "education",
+        "responsibility",
+        "children"
+      ]
+    },
+    {
+      "id": 151,
+      "chapter_id": 5,
+      "text": "Which of the following is a right of ALL people living in Australia, including visitors and migrants?",
+      "options": [
+        "The right to vote in federal elections",
+        "The right to be treated equally and fairly by the law",
+        "The right to an Australian passport",
+        "The right to apply for citizenship immediately"
+      ],
+      "correct_index": 1,
+      "explanation": "The right to equal and fair treatment under the law applies to everyone in Australia \u2014 citizens, permanent residents, temporary visa holders, and visitors. Only some rights, like voting and holding a passport, are exclusive to citizens.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "law",
+        "equality"
+      ]
+    },
+    {
+      "id": 152,
+      "chapter_id": 5,
+      "text": "What is the responsibility of all people living in Australia regarding Australian law?",
+      "options": [
+        "Only laws you agree with need to be followed",
+        "All people must obey Australian law, regardless of their cultural background",
+        "Cultural or religious laws take priority over Australian law",
+        "Laws only apply to Australian citizens"
+      ],
+      "correct_index": 1,
+      "explanation": "All people in Australia \u2014 citizens, residents, and visitors \u2014 must obey Australian law. No cultural, religious, or family tradition can override Australian law. If you disagree with a law, work to change it through legal means.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "law",
+        "responsibility"
+      ]
+    },
+    {
+      "id": 153,
+      "chapter_id": 5,
+      "text": "At what age must Australians enrol on the electoral roll?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "25"
+      ],
+      "correct_index": 1,
+      "explanation": "All Australian citizens who are 18 years of age or older must enrol on the electoral roll and vote in federal elections. Enrolling is compulsory, not optional, for eligible citizens.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "enrolment",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 154,
+      "chapter_id": 5,
+      "text": "Can Australian citizens vote in both federal and state/territory elections?",
+      "options": [
+        "No, only federal elections",
+        "Yes, Australian citizens can vote at all levels of government",
+        "Only in the state they were born",
+        "Only if they own property in that state"
+      ],
+      "correct_index": 1,
+      "explanation": "Australian citizens have the right and responsibility to vote at all levels of government \u2014 federal, state/territory, and local government elections. Compulsory voting applies at both federal and most state elections.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "rights",
+        "government"
+      ]
+    },
+    {
+      "id": 155,
+      "chapter_id": 5,
+      "text": "What does the Australian Citizenship Pledge commit new citizens to?",
+      "options": [
+        "To always vote for the same political party",
+        "To share Australia's democratic values and uphold its laws",
+        "To learn only English and no other languages",
+        "To give up their previous cultural identity"
+      ],
+      "correct_index": 1,
+      "explanation": "The Australian Citizenship Pledge commits new citizens to loyalty to Australia, sharing its democratic values, observing Australian laws, and upholding its rights and liberties. It is made at a citizenship ceremony.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "citizenship-pledge",
+        "ceremony"
+      ]
+    },
+    {
+      "id": 156,
+      "chapter_id": 5,
+      "text": "What should Australian citizens do to support Australian society?",
+      "options": [
+        "Pay their taxes and obey the law only",
+        "Contribute to community life through volunteering, voting, and respecting others",
+        "Only work in essential services",
+        "Nothing \u2014 rights don't come with responsibilities"
+      ],
+      "correct_index": 1,
+      "explanation": "Being a good citizen means more than obeying the law. Australians are encouraged to contribute positively to the community through volunteering, participating in democracy, respecting others, and helping neighbours.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "community",
+        "responsibility",
+        "citizenship"
+      ]
+    },
+    {
+      "id": 157,
+      "chapter_id": 5,
+      "text": "What happens to your permanent residency status when you become an Australian citizen?",
+      "options": [
+        "You lose your permanent residency rights",
+        "Your permanent residency is upgraded \u2014 citizenship gives you additional rights",
+        "Nothing changes",
+        "You must choose one or the other"
+      ],
+      "correct_index": 1,
+      "explanation": "When a permanent resident becomes an Australian citizen, they gain additional rights on top of those they already had \u2014 including the right to vote, hold an Australian passport, and apply for certain government jobs. Citizenship is a step up from permanent residency.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "citizenship",
+        "permanent-residency"
+      ]
+    },
+    {
+      "id": 158,
+      "chapter_id": 5,
+      "text": "Which of the following groups does NOT have the right to vote in Australian federal elections?",
+      "options": [
+        "Australian citizens aged 18 and over",
+        "Permanent residents who have lived in Australia for 10 years",
+        "People with a disability",
+        "None of the above \u2014 all citizens 18+ can vote"
+      ],
+      "correct_index": 1,
+      "explanation": "Permanent residents, regardless of how long they have lived in Australia, cannot vote in federal elections. Only Australian citizens aged 18 and over can vote. Permanent residency does not grant voting rights.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "voting",
+        "citizenship",
+        "rights"
+      ]
+    },
+    {
+      "id": 159,
+      "chapter_id": 6,
+      "text": "What was the Snowy Mountains Scheme?",
+      "options": [
+        "A plan to build ski resorts in the Alps",
+        "A massive engineering project building dams and tunnels for hydroelectricity and irrigation",
+        "A scheme to relocate Aboriginal peoples to the mountains",
+        "A program to attract migrants to mountain areas"
+      ],
+      "correct_index": 1,
+      "explanation": "The Snowy Mountains Scheme (1949\u20131974) was one of Australia's greatest engineering achievements. It built 16 dams, 7 power stations, and 225km of tunnels, providing hydroelectric power and irrigation water. Over 100,000 workers from 30 countries helped build it.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "history",
+        "engineering",
+        "immigration"
+      ]
+    },
+    {
+      "id": 160,
+      "chapter_id": 6,
+      "text": "When did Australia last change its immigration policy to remove racial discrimination?",
+      "options": [
+        "1901",
+        "1945",
+        "1966 (gradually abolished from the 1960s)",
+        "2001"
+      ],
+      "correct_index": 2,
+      "explanation": "The White Australia Policy was gradually dismantled from the early 1960s and formally ended with the 1973 Racial Discrimination Act. Australia moved to a non-discriminatory immigration policy based on skills and family reunification.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "immigration",
+        "history",
+        "policy"
+      ]
+    },
+    {
+      "id": 161,
+      "chapter_id": 6,
+      "text": "What was the significance of the 1992 Mabo decision by the High Court?",
+      "options": [
+        "It gave all migrants permanent residency",
+        "It recognised that Aboriginal and Torres Strait Islander peoples had rights to land before European settlement",
+        "It established Australia as a republic",
+        "It ended the White Australia Policy"
+      ],
+      "correct_index": 1,
+      "explanation": "The 1992 Mabo decision by the High Court overturned the legal doctrine of 'terra nullius' (land belonging to no one) and recognised that Aboriginal and Torres Strait Islander peoples had native title rights to land before European settlement.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "mabo",
+        "indigenous",
+        "history"
+      ]
+    },
+    {
+      "id": 162,
+      "chapter_id": 6,
+      "text": "Australia fought alongside which countries in World War I?",
+      "options": [
+        "Germany and Austria-Hungary",
+        "Britain, France, New Zealand and other Allied nations",
+        "Japan and China",
+        "Russia and the United States only"
+      ],
+      "correct_index": 1,
+      "explanation": "In World War I (1914\u20131918), Australia fought as part of the Allied forces alongside Britain, France, New Zealand, Canada and other nations. About 330,000 Australians served, and around 60,000 died.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "wwi",
+        "history",
+        "anzac"
+      ]
+    },
+    {
+      "id": 163,
+      "chapter_id": 6,
+      "text": "What is the significance of the Sydney Harbour Bridge?",
+      "options": [
+        "It is Australia's oldest bridge",
+        "It is an iconic symbol connecting Sydney's north and south, opened in 1932",
+        "It was the world's first suspension bridge",
+        "It connects mainland Australia to Tasmania"
+      ],
+      "correct_index": 1,
+      "explanation": "The Sydney Harbour Bridge, opened on 19 March 1932, is an iconic symbol of Australia. Known as 'The Coathanger', it connects Sydney's central business district to the North Shore. It is the world's largest steel arch bridge.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "landmarks",
+        "sydney",
+        "history"
+      ]
+    },
+    {
+      "id": 164,
+      "chapter_id": 6,
+      "text": "What is the Great Barrier Reef and why is it significant?",
+      "options": [
+        "A mountain range along Australia's east coast",
+        "The world's largest coral reef system, a UNESCO World Heritage Site off Queensland's coast",
+        "A defensive reef barrier built by early settlers",
+        "A series of underwater caves in Western Australia"
+      ],
+      "correct_index": 1,
+      "explanation": "The Great Barrier Reef is the world's largest coral reef system, stretching over 2,300km along Queensland's coast. It is a UNESCO World Heritage Site and supports thousands of species of marine life. It is one of the natural wonders of the world.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "environment",
+        "world-heritage"
+      ]
+    },
+    {
+      "id": 165,
+      "chapter_id": 6,
+      "text": "What was the post-World War II immigration program's slogan?",
+      "options": [
+        "'Open the gates to the world'",
+        "'Populate or perish'",
+        "'New Australians for a new nation'",
+        "'From Europe to Australia'"
+      ],
+      "correct_index": 1,
+      "explanation": "'Populate or perish' was the rallying cry of Australia's post-WWII immigration program. Australia needed to grow its population for economic development and defence. Millions of migrants \u2014 initially from Europe \u2014 were encouraged to settle in Australia.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "immigration",
+        "history",
+        "wwii"
+      ]
+    },
+    {
+      "id": 166,
+      "chapter_id": 1,
+      "text": "What is shown on the Australian Coat of Arms?",
+      "options": [
+        "A kangaroo and an emu holding a shield",
+        "A kookaburra and a platypus",
+        "A koala and a wombat",
+        "A crocodile and a shark"
+      ],
+      "correct_index": 0,
+      "explanation": "The Australian Coat of Arms features a kangaroo and an emu supporting a shield. Both animals were chosen because they cannot easily walk backwards, symbolising a nation moving forward. The shield shows the badges of the six states.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "coat-of-arms",
+        "national-symbols"
+      ]
+    },
+    {
+      "id": 167,
+      "chapter_id": 1,
+      "text": "What are the capital cities of New South Wales and Victoria respectively?",
+      "options": [
+        "Sydney and Melbourne",
+        "Brisbane and Adelaide",
+        "Perth and Hobart",
+        "Darwin and Canberra"
+      ],
+      "correct_index": 0,
+      "explanation": "Sydney is the capital of New South Wales and Melbourne is the capital of Victoria. Sydney is Australia's largest city; Melbourne is the second largest. Both are major economic, cultural and sporting centres.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "states",
+        "capitals",
+        "geography"
+      ]
+    },
+    {
+      "id": 168,
+      "chapter_id": 1,
+      "text": "What is ANZAC Day and when is it celebrated?",
+      "options": [
+        "Australia's founding day, celebrated on 26 January",
+        "A day honouring Australian and New Zealand soldiers, celebrated on 25 April",
+        "The day Australia became a federation, celebrated on 1 January",
+        "A day celebrating multiculturalism, held in March"
+      ],
+      "correct_index": 1,
+      "explanation": "ANZAC Day, 25 April, commemorates the Australian and New Zealand Army Corps (ANZAC) soldiers who served and died in wars, conflicts and peacekeeping operations. It began as a memorial for the Gallipoli campaign of World War I in 1915.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "anzac",
+        "national-days",
+        "history"
+      ]
+    },
+    {
+      "id": 169,
+      "chapter_id": 1,
+      "text": "What is Australia's approximate land area, making it the world's sixth largest country?",
+      "options": [
+        "About 2.7 million square kilometres",
+        "About 5.5 million square kilometres",
+        "About 7.7 million square kilometres",
+        "About 10 million square kilometres"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia covers approximately 7.7 million square kilometres, making it the world's sixth largest country by land area. It is the largest country in the Southern Hemisphere and the only nation to govern an entire continent.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "size"
+      ]
+    },
+    {
+      "id": 170,
+      "chapter_id": 1,
+      "text": "What is the name of the large rock formation sacred to the Anangu people in Central Australia?",
+      "options": [
+        "The Olgas (Kata Tjuta)",
+        "Uluru (Ayers Rock)",
+        "Kings Canyon",
+        "Devils Marbles"
+      ],
+      "correct_index": 1,
+      "explanation": "Uluru (also known as Ayers Rock) is a large sandstone rock formation in the Northern Territory sacred to the Anangu, the local Aboriginal people. It is a UNESCO World Heritage Site and one of Australia's most recognised natural landmarks.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "indigenous",
+        "landmarks",
+        "geography"
+      ]
+    },
+    {
+      "id": 171,
+      "chapter_id": 1,
+      "text": "Australia is home to many unique animals. Which of the following is a marsupial found only in Australia?",
+      "options": [
+        "The panda",
+        "The wombat",
+        "The African lion",
+        "The bald eagle"
+      ],
+      "correct_index": 1,
+      "explanation": "The wombat is a marsupial found only in Australia. Australia has an extraordinary range of unique wildlife including kangaroos, koalas, wombats, platypuses, echidnas and many unique bird species.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "wildlife",
+        "nature"
+      ]
+    },
+    {
+      "id": 172,
+      "chapter_id": 1,
+      "text": "What is the capital city of Queensland?",
+      "options": [
+        "Cairns",
+        "Gold Coast",
+        "Brisbane",
+        "Townsville"
+      ],
+      "correct_index": 2,
+      "explanation": "Brisbane is the capital city of Queensland. It is Australia's third largest city and hosted the 1988 World Expo. Queensland is known for its warm climate, the Great Barrier Reef and the Gold Coast.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "states",
+        "capitals",
+        "geography"
+      ]
+    },
+    {
+      "id": 173,
+      "chapter_id": 1,
+      "text": "How many time zones does Australia have?",
+      "options": [
+        "One \u2014 all of Australia uses the same time",
+        "Two \u2014 east and west",
+        "Three main time zones (with some states having half-hour variations)",
+        "Six \u2014 one per state"
+      ],
+      "correct_index": 2,
+      "explanation": "Australia has three main time zones: Australian Eastern Standard Time, Australian Central Standard Time (30 minutes behind east), and Australian Western Standard Time. Some states also observe daylight saving time, adding further variation.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "geography",
+        "time-zones"
+      ]
+    },
+    {
+      "id": 174,
+      "chapter_id": 1,
+      "text": "What is the capital city of Western Australia?",
+      "options": [
+        "Fremantle",
+        "Albany",
+        "Broome",
+        "Perth"
+      ],
+      "correct_index": 3,
+      "explanation": "Perth is the capital city of Western Australia and Australia's fourth largest city. It is the most isolated major city in the world and is known for its sunshine, beaches and proximity to the mining regions of Western Australia.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "states",
+        "capitals",
+        "geography"
+      ]
+    },
+    {
+      "id": 175,
+      "chapter_id": 1,
+      "text": "Australia is a member of which international group of nations that share historical and cultural ties with Britain?",
+      "options": [
+        "The European Union",
+        "The Commonwealth of Nations",
+        "The Pacific Alliance",
+        "The ANZUS Treaty Organisation"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia is a member of the Commonwealth of Nations (formerly the British Commonwealth), a voluntary association of 56 countries, most of which are former territories of the British Empire. Members share democratic values and cultural ties.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "commonwealth",
+        "international"
+      ]
+    },
+    {
+      "id": 176,
+      "chapter_id": 2,
+      "text": "What does 'separation of church and state' mean in Australia?",
+      "options": [
+        "Churches must be physically separate from government buildings",
+        "Religion and government operate independently \u2014 the government does not favour any religion",
+        "Religious people are not allowed to work in government",
+        "The church controls education and the state controls healthcare"
+      ],
+      "correct_index": 1,
+      "explanation": "Separation of church and state means the Australian government is secular \u2014 it does not favour or support any particular religion. People of all faiths are welcome to participate in public life, but religious doctrine does not dictate government policy.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "religion",
+        "government",
+        "secularism"
+      ]
+    },
+    {
+      "id": 177,
+      "chapter_id": 2,
+      "text": "What does freedom of thought and conscience mean for Australians?",
+      "options": [
+        "Australians must share the government's opinion on all matters",
+        "Australians can hold any personal belief, opinion or political view without persecution",
+        "Thoughts can be monitored by the government for national security",
+        "Freedom of thought only applies to Australian-born citizens"
+      ],
+      "correct_index": 1,
+      "explanation": "Freedom of thought and conscience means Australians can hold personal beliefs, political opinions and philosophical views without fear of government persecution. No one can be punished for their private thoughts or beliefs.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "freedom",
+        "rights",
+        "democracy"
+      ]
+    },
+    {
+      "id": 178,
+      "chapter_id": 2,
+      "text": "Why are courts and judges kept independent from the government in Australia?",
+      "options": [
+        "To save the government money on legal costs",
+        "So courts can make fair decisions based on law, free from political pressure",
+        "Because judges are elected separately from parliament",
+        "To allow courts to create their own laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Judicial independence means courts make decisions based on the law and evidence, not on political pressure. This is essential for the rule of law \u2014 it ensures everyone gets a fair hearing, including when the government itself is on trial.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "courts",
+        "independence",
+        "rule-of-law"
+      ]
+    },
+    {
+      "id": 179,
+      "chapter_id": 2,
+      "text": "What is the Westminster system that Australia's government is based on?",
+      "options": [
+        "A system where the military controls parliament",
+        "A form of parliamentary democracy originating in the United Kingdom",
+        "A voting system that uses proportional representation only",
+        "A system where the President holds all executive power"
+      ],
+      "correct_index": 1,
+      "explanation": "The Westminster system is a form of parliamentary democracy that originated in the United Kingdom's Parliament at Westminster. Australia adapted this system, featuring a parliament, a head of state, and an executive government accountable to parliament.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "westminster",
+        "government",
+        "democracy"
+      ]
+    },
+    {
+      "id": 180,
+      "chapter_id": 2,
+      "text": "In Australia's democracy, what is the role of a free media?",
+      "options": [
+        "To entertain the public only",
+        "To keep the public informed and hold governments accountable",
+        "To promote government policies",
+        "To decide election results"
+      ],
+      "correct_index": 1,
+      "explanation": "A free media is essential to democracy. Journalists investigate and report on government actions, expose corruption, and keep the public informed so citizens can make better decisions about who to vote for. This is why press freedom is protected.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "media",
+        "democracy",
+        "accountability"
+      ]
+    },
+    {
+      "id": 181,
+      "chapter_id": 2,
+      "text": "What does it mean that Australia has a 'common law' legal system?",
+      "options": [
+        "All laws are made by the community, not parliament",
+        "Laws are based partly on acts of parliament and partly on decisions made by judges over time",
+        "Every person must know all laws by memory",
+        "Common people write the laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia's common law system means laws come from two sources: acts of parliament (legislation) and precedents set by judges' decisions over time (case law). This tradition was inherited from England and forms the foundation of Australian law.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "common-law",
+        "legal-system"
+      ]
+    },
+    {
+      "id": 182,
+      "chapter_id": 2,
+      "text": "Can Australians form or join trade unions?",
+      "options": [
+        "No, trade unions are illegal in Australia",
+        "Yes, freedom of association includes the right to join trade unions",
+        "Only in certain industries like mining and construction",
+        "Only if you have been in Australia for more than 10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Yes, freedom of association includes the right to form and join trade unions. Trade unions represent workers' interests and have played an important role in achieving workplace rights in Australia, including the 8-hour working day.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "unions",
+        "freedom",
+        "workers"
+      ]
+    },
+    {
+      "id": 183,
+      "chapter_id": 2,
+      "text": "If someone in Australia is arrested, what rights do they have?",
+      "options": [
+        "No rights \u2014 police have full authority",
+        "The right to remain silent and the right to legal representation",
+        "The right to be released after 24 hours regardless",
+        "The right to choose their own judge"
+      ],
+      "correct_index": 1,
+      "explanation": "When arrested in Australia, a person has the right to remain silent (anything said can be used as evidence), the right to contact a lawyer, and the right to a fair trial. These rights protect against wrongful conviction.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "arrest",
+        "law"
+      ]
+    },
+    {
+      "id": 184,
+      "chapter_id": 3,
+      "text": "How does a bill become a law in Australia's federal parliament?",
+      "options": [
+        "The Prime Minister signs it alone",
+        "It must be passed by both the House of Representatives and the Senate, then receive Royal Assent",
+        "Citizens vote on it in a national referendum",
+        "The High Court must approve it first"
+      ],
+      "correct_index": 1,
+      "explanation": "For a bill to become law, it must pass through both houses of parliament (House of Representatives and Senate). It is then presented to the Governor-General for Royal Assent. Once signed, it becomes an Act of Parliament \u2014 law.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "parliament",
+        "legislation",
+        "law-making"
+      ]
+    },
+    {
+      "id": 185,
+      "chapter_id": 3,
+      "text": "What is the role of the Speaker of the House of Representatives?",
+      "options": [
+        "To give speeches on behalf of the Prime Minister",
+        "To preside over debates and maintain order in the House",
+        "To represent Australia at international events",
+        "To approve all new laws before they go to the Senate"
+      ],
+      "correct_index": 1,
+      "explanation": "The Speaker is elected by members of the House of Representatives to preside over debates, maintain order, and enforce the rules of the House. The Speaker ensures all members follow parliamentary procedure fairly.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "parliament",
+        "speaker",
+        "house-of-reps"
+      ]
+    },
+    {
+      "id": 186,
+      "chapter_id": 3,
+      "text": "What is the Australian Human Rights Commission?",
+      "options": [
+        "A court that handles criminal cases involving human rights",
+        "An independent body that promotes and protects human rights in Australia",
+        "A department of the Prime Minister's office",
+        "A body that only handles immigration complaints"
+      ],
+      "correct_index": 1,
+      "explanation": "The Australian Human Rights Commission is an independent statutory body that promotes and protects the human rights of all people in Australia. It handles complaints about discrimination and human rights breaches and conducts inquiries into human rights issues.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "human-rights",
+        "institutions"
+      ]
+    },
+    {
+      "id": 187,
+      "chapter_id": 3,
+      "text": "Which level of government is responsible for hospitals and public schools?",
+      "options": [
+        "Federal (national) government",
+        "Local (council) government",
+        "State and territory governments",
+        "All three levels equally"
+      ],
+      "correct_index": 2,
+      "explanation": "State and territory governments are primarily responsible for hospitals, public schools, police, roads, and public transport. The federal government provides funding but states manage day-to-day operations of these essential services.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "state-government",
+        "services"
+      ]
+    },
+    {
+      "id": 188,
+      "chapter_id": 3,
+      "text": "What does it mean for Australia to be a federation?",
+      "options": [
+        "Australia is controlled by one central government",
+        "Power is shared between the national government and the state/territory governments",
+        "Australia has no central government",
+        "All states must pass identical laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Federation means power is shared between the federal (national) government and the state/territory governments. The Constitution sets out which powers belong to the federal government and which belong to the states.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "federation",
+        "government"
+      ]
+    },
+    {
+      "id": 189,
+      "chapter_id": 3,
+      "text": "What is the function of the Senate in Australia's parliament?",
+      "options": [
+        "To elect the Prime Minister",
+        "To review legislation passed by the House of Representatives and represent the states",
+        "To control Australia's military",
+        "To approve the national budget only"
+      ],
+      "correct_index": 1,
+      "explanation": "The Senate is the upper house of Australia's parliament. It reviews legislation passed by the House of Representatives and can amend or reject bills. It also represents the states equally \u2014 each state has 12 senators regardless of population size.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "senate",
+        "parliament"
+      ]
+    },
+    {
+      "id": 190,
+      "chapter_id": 3,
+      "text": "What is an ombudsman in Australia?",
+      "options": [
+        "A type of judge who handles family law cases",
+        "An independent officer who investigates complaints about government agencies",
+        "A government minister responsible for complaints",
+        "A police officer who handles citizen disputes"
+      ],
+      "correct_index": 1,
+      "explanation": "An ombudsman is an independent official who investigates complaints from citizens about government agencies and public services. The Commonwealth Ombudsman and various state ombudsmen help ensure government bodies act fairly and properly.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "ombudsman",
+        "accountability",
+        "government"
+      ]
+    },
+    {
+      "id": 191,
+      "chapter_id": 3,
+      "text": "In Australia, who has the power to declare war?",
+      "options": [
+        "The Prime Minister alone",
+        "The people in a national referendum",
+        "The Governor-General on the advice of the government (executive power)",
+        "The High Court of Australia"
+      ],
+      "correct_index": 2,
+      "explanation": "The power to declare war is an executive power exercised by the Governor-General on the advice of the federal government. In practice, it is the Prime Minister and Cabinet who make this decision. Parliament does not need to vote on it.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "government",
+        "executive",
+        "defence"
+      ]
+    },
+    {
+      "id": 192,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward 'honour-based' violence (violence committed to protect family honour)?",
+      "options": [
+        "It is accepted if it is part of a cultural tradition",
+        "It is a serious crime \u2014 no cultural tradition justifies violence",
+        "It is only illegal if committed in public",
+        "It is judged case-by-case depending on the culture"
+      ],
+      "correct_index": 1,
+      "explanation": "Honour-based violence is a serious crime in Australia. No cultural, religious or family tradition justifies violence against another person. Australian law protects everyone from violence regardless of cultural background.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "violence",
+        "values",
+        "law"
+      ]
+    },
+    {
+      "id": 193,
+      "chapter_id": 4,
+      "text": "In Australia, can an employer discriminate against a job applicant because of their religion?",
+      "options": [
+        "Yes, employers can choose who they want to hire",
+        "No, discrimination based on religion in employment is unlawful",
+        "Only for senior positions",
+        "Yes, if the business has fewer than 10 employees"
+      ],
+      "correct_index": 1,
+      "explanation": "Discrimination based on religion in employment is unlawful in Australia. Anti-discrimination laws protect people from being treated unfairly because of their religion, race, gender, age, disability or other personal characteristics.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "discrimination",
+        "employment",
+        "religion"
+      ]
+    },
+    {
+      "id": 194,
+      "chapter_id": 4,
+      "text": "What is Australia's stance on the treatment of people from the LGBTQ+ community?",
+      "options": [
+        "LGBTQ+ people have fewer legal rights than others",
+        "All people, including LGBTQ+ people, are entitled to the same rights, dignity and respect",
+        "This is a matter for individual states to decide",
+        "LGBTQ+ people are only protected in major cities"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values equality and respect for all people. LGBTQ+ Australians have the same legal rights as everyone else, including the right to marry since 2017. Discrimination based on sexual orientation or gender identity is unlawful.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "equality",
+        "lgbtq",
+        "rights"
+      ]
+    },
+    {
+      "id": 195,
+      "chapter_id": 4,
+      "text": "Australia values protecting the environment. What does this mean for individuals?",
+      "options": [
+        "Only large companies are responsible for the environment",
+        "Individuals, businesses and governments all share responsibility for protecting Australia's natural environment",
+        "Environmental protection only applies to national parks",
+        "The environment is the responsibility of scientists only"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values its natural environment and expects all people \u2014 individuals, businesses and governments \u2014 to help protect it. This includes following environmental laws, reducing waste, and caring for native wildlife and ecosystems.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "environment",
+        "values",
+        "responsibility"
+      ]
+    },
+    {
+      "id": 196,
+      "chapter_id": 4,
+      "text": "What is Australia's attitude toward community participation and volunteering?",
+      "options": [
+        "Community participation is only for retired people",
+        "Volunteering and helping others is a valued part of Australian culture and community life",
+        "Community work is only done by paid workers",
+        "Only charities are expected to help communities"
+      ],
+      "correct_index": 1,
+      "explanation": "Volunteering and community participation are deeply valued in Australia. Millions of Australians volunteer with community organisations, sports clubs, emergency services and charities. Helping others and contributing to the community is a core Australian value.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "community",
+        "volunteering",
+        "values"
+      ]
+    },
+    {
+      "id": 197,
+      "chapter_id": 4,
+      "text": "In Australia, what is the correct response if you face discrimination in the workplace?",
+      "options": [
+        "Accept it as part of workplace culture",
+        "Retaliate with your own discrimination",
+        "Report it to your employer, a union, or the Australian Human Rights Commission",
+        "Leave the job without saying anything"
+      ],
+      "correct_index": 2,
+      "explanation": "If you face workplace discrimination in Australia, you can report it to your employer or HR department, contact your trade union, or make a complaint to the Australian Human Rights Commission or the relevant state anti-discrimination body.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "discrimination",
+        "workplace",
+        "rights"
+      ]
+    },
+    {
+      "id": 198,
+      "chapter_id": 4,
+      "text": "Is it acceptable in Australia for parents to use physical punishment on their children?",
+      "options": [
+        "Yes, parents have the right to discipline children however they choose",
+        "Severe physical punishment that causes harm is illegal \u2014 children must be protected from abuse",
+        "Physical punishment is encouraged in Australian schools",
+        "Only mild physical punishment is completely unrestricted by law"
+      ],
+      "correct_index": 1,
+      "explanation": "While minor physical discipline remains legal in some contexts, severe physical punishment that causes harm to children is child abuse and a crime. Australia is committed to protecting children from all forms of abuse and harm.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "children",
+        "values",
+        "law"
+      ]
+    },
+    {
+      "id": 199,
+      "chapter_id": 4,
+      "text": "What does Australia's value of 'a fair go' mean in practice?",
+      "options": [
+        "Everyone gets exactly the same outcome regardless of effort",
+        "Everyone deserves an equal chance to succeed based on their efforts and abilities",
+        "The government provides equal wealth to all citizens",
+        "Only people born in Australia deserve a fair chance"
+      ],
+      "correct_index": 1,
+      "explanation": "'A fair go' is a deeply Australian value meaning everyone deserves an equal opportunity to succeed based on their talent and hard work \u2014 not their background, wealth, or connections. It is central to Australian ideas of justice and equality.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "fair-go",
+        "equality",
+        "values"
+      ]
+    },
+    {
+      "id": 200,
+      "chapter_id": 4,
+      "text": "How does Australia expect people to treat Aboriginal and Torres Strait Islander peoples and their cultures?",
+      "options": [
+        "Their cultures are historical and no longer relevant",
+        "With respect and recognition \u2014 Indigenous cultures are an important part of Australia's identity",
+        "Indigenous culture is separate and should not be shared with others",
+        "Only Indigenous Australians need to know about their culture"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia values and respects Aboriginal and Torres Strait Islander peoples as the oldest living cultures on earth. Their cultures, lands and heritage are an important part of Australia's national identity and deserve respect from all Australians.",
+      "difficulty": "easy",
+      "is_values_question": true,
+      "tags": [
+        "indigenous",
+        "respect",
+        "values"
+      ]
+    },
+    {
+      "id": 201,
+      "chapter_id": 4,
+      "text": "In Australia, can a religious leader order community members to break Australian law?",
+      "options": [
+        "Yes, if the majority of the community agrees",
+        "No, Australian law applies to everyone and cannot be overridden by religious authority",
+        "Yes, for matters within the religious community only",
+        "It depends on the religion"
+      ],
+      "correct_index": 1,
+      "explanation": "No religious leader has the authority to order others to break Australian law. Australian law applies to all people equally. While Australians have freedom of religion, that freedom does not permit breaking the law in the name of religion.",
+      "difficulty": "medium",
+      "is_values_question": true,
+      "tags": [
+        "religion",
+        "law",
+        "values"
+      ]
+    },
+    {
+      "id": 202,
+      "chapter_id": 5,
+      "text": "What is Medicare and who is entitled to it?",
+      "options": [
+        "A private health insurance scheme only for the wealthy",
+        "Australia's universal healthcare system, available to all Australian citizens and most permanent residents",
+        "A system only for people over 65",
+        "A charity providing free medicine to low-income Australians only"
+      ],
+      "correct_index": 1,
+      "explanation": "Medicare is Australia's universal public health care system. It gives all Australian citizens and most permanent residents access to subsidised medical, hospital and pharmaceutical care. It is funded by the Medicare levy on income tax.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "medicare",
+        "healthcare",
+        "rights"
+      ]
+    },
+    {
+      "id": 203,
+      "chapter_id": 5,
+      "text": "Do Australian citizens have the right to access a lawyer when accused of a crime?",
+      "options": [
+        "Only if they can afford one",
+        "Yes, everyone has the right to legal representation \u2014 Legal Aid is available if you cannot afford a lawyer",
+        "Only Australian-born citizens have this right",
+        "This right only applies to serious crimes"
+      ],
+      "correct_index": 1,
+      "explanation": "Everyone accused of a crime in Australia has the right to legal representation. If you cannot afford a lawyer, Legal Aid services are available to assist. This right ensures everyone gets a fair hearing regardless of wealth.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "legal-aid",
+        "rights",
+        "law"
+      ]
+    },
+    {
+      "id": 204,
+      "chapter_id": 5,
+      "text": "What right do people have if they do not speak English when involved in court proceedings in Australia?",
+      "options": [
+        "They must find their own interpreter",
+        "Court proceedings stop until they learn English",
+        "They have the right to an interpreter provided by the court",
+        "Their case is automatically dismissed"
+      ],
+      "correct_index": 2,
+      "explanation": "Everyone has the right to understand and be understood in court proceedings. Courts in Australia must provide a qualified interpreter if someone cannot speak or understand English well enough to participate fully in their case.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "rights",
+        "interpreter",
+        "court"
+      ]
+    },
+    {
+      "id": 205,
+      "chapter_id": 5,
+      "text": "What is the Centrelink system in Australia?",
+      "options": [
+        "Australia's central banking system",
+        "A government agency that provides social security payments to eligible Australians",
+        "A private charity that helps unemployed people",
+        "A system for managing Medicare claims"
+      ],
+      "correct_index": 1,
+      "explanation": "Centrelink is the government agency (part of Services Australia) that delivers social security payments and services including unemployment benefits (JobSeeker), family payments, aged pensions and disability support to eligible Australians.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "centrelink",
+        "social-security",
+        "rights"
+      ]
+    },
+    {
+      "id": 206,
+      "chapter_id": 5,
+      "text": "What is an Australian citizen's responsibility if they are called as a witness in court?",
+      "options": [
+        "They can refuse if it is inconvenient",
+        "They must attend and tell the truth \u2014 refusing or lying is a criminal offence",
+        "They only need to attend if the case involves them personally",
+        "Witnesses are optional in Australian court cases"
+      ],
+      "correct_index": 1,
+      "explanation": "If summoned as a witness, an Australian citizen must attend court and tell the truth. Giving false testimony is perjury \u2014 a serious criminal offence. Refusing to attend court when summoned is also a crime.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "court",
+        "responsibility",
+        "witness"
+      ]
+    },
+    {
+      "id": 207,
+      "chapter_id": 5,
+      "text": "What is the responsibility of all Australians with regard to the natural environment?",
+      "options": [
+        "Only businesses must follow environmental laws",
+        "All Australians are responsible for following environmental laws and caring for the natural environment",
+        "Environmental responsibility is voluntary",
+        "Only people who live near national parks have environmental responsibilities"
+      ],
+      "correct_index": 1,
+      "explanation": "All Australians \u2014 residents and citizens \u2014 are responsible for caring for the natural environment, following environmental laws, and not harming wildlife or ecosystems. Environmental laws apply to individuals, businesses and governments alike.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "environment",
+        "responsibility"
+      ]
+    },
+    {
+      "id": 208,
+      "chapter_id": 5,
+      "text": "Can permanent residents in Australia access most government services like Medicare and social security?",
+      "options": [
+        "No, only citizens can access any government services",
+        "Yes, most permanent residents are entitled to Medicare and social security services",
+        "Only permanent residents who have lived in Australia for 10 years",
+        "Only permanent residents who pay an extra tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Most permanent residents are eligible for Medicare, and after a waiting period, access to social security payments like JobSeeker. Permanent residents pay taxes and contribute to Australian society, so they receive most government services.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "permanent-residency",
+        "services",
+        "rights"
+      ]
+    },
+    {
+      "id": 209,
+      "chapter_id": 6,
+      "text": "What was the Eureka Stockade of 1854?",
+      "options": [
+        "A battle between Australia and Britain for independence",
+        "A rebellion by gold miners in Ballarat against unfair mining licences, seen as an early expression of Australian democracy",
+        "The founding of the first trade union in Australia",
+        "A gold rush that began in New South Wales"
+      ],
+      "correct_index": 1,
+      "explanation": "The Eureka Stockade (1854) was a rebellion by gold miners in Ballarat, Victoria, against expensive and unfairly enforced mining licences. It is seen as a founding moment of Australian democracy \u2014 the miners' demands for rights influenced future democratic reforms.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "eureka",
+        "history",
+        "democracy"
+      ]
+    },
+    {
+      "id": 210,
+      "chapter_id": 6,
+      "text": "When did Australia fight in the Vietnam War and what happened after?",
+      "options": [
+        "1939\u20131945; Australia was praised for its involvement",
+        "1962\u20131972; the war was deeply controversial and divided Australian society",
+        "1950\u20131953; Australia won a decisive victory",
+        "1975\u20131980; Australia was the last country to withdraw"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia was involved in the Vietnam War from 1962 to 1972. The conflict was deeply controversial \u2014 national service (conscription) was introduced, causing major protests. Veterans were not always welcomed home warmly, which remains a sensitive part of Australian history.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "vietnam",
+        "history",
+        "military"
+      ]
+    },
+    {
+      "id": 211,
+      "chapter_id": 6,
+      "text": "What was the significance of the 1901 Federation for Australia?",
+      "options": [
+        "Australia became a republic and left the British Empire",
+        "The six separate British colonies united to become the Commonwealth of Australia \u2014 one nation",
+        "Australia gained the right to have its own army",
+        "Aboriginal Australians were granted full citizenship rights"
+      ],
+      "correct_index": 1,
+      "explanation": "On 1 January 1901, the six British colonies \u2014 New South Wales, Victoria, Queensland, South Australia, Western Australia and Tasmania \u2014 united to form the Commonwealth of Australia. This federation created one national government while states kept their own powers.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "federation",
+        "1901",
+        "history"
+      ]
+    },
+    {
+      "id": 212,
+      "chapter_id": 6,
+      "text": "What is the significance of Kakadu National Park in the Northern Territory?",
+      "options": [
+        "It is Australia's largest ski resort",
+        "It is a UNESCO World Heritage Site containing ancient Aboriginal rock art and diverse wildlife",
+        "It is the location of Australia's first European settlement",
+        "It is the site of Australia's largest gold mine"
+      ],
+      "correct_index": 1,
+      "explanation": "Kakadu National Park is a UNESCO World Heritage Site (both cultural and natural) in the Northern Territory. It contains some of the world's oldest rock art created by Aboriginal peoples, extraordinary biodiversity, and significant wetlands.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "kakadu",
+        "indigenous",
+        "environment"
+      ]
+    },
+    {
+      "id": 213,
+      "chapter_id": 6,
+      "text": "When did women first gain the right to vote in federal elections in Australia?",
+      "options": [
+        "1856",
+        "1902",
+        "1921",
+        "1945"
+      ],
+      "correct_index": 1,
+      "explanation": "Australian women won the right to vote in federal elections in 1902, making Australia one of the first countries in the world to grant women this right. Women could also stand for federal parliament from 1902.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "women",
+        "voting",
+        "history"
+      ]
+    },
+    {
+      "id": 214,
+      "chapter_id": 6,
+      "text": "What was Australia's role in World War II?",
+      "options": [
+        "Australia remained neutral throughout World War II",
+        "Australia fought with the Allied forces in Europe, the Pacific and North Africa, and faced direct threat from Japan",
+        "Australia only provided food and supplies, not soldiers",
+        "Australia sided with Germany in the early years of the war"
+      ],
+      "correct_index": 1,
+      "explanation": "Australia played a major role in World War II (1939\u20131945), fighting in Europe, North Africa and the Pacific. After Japan bombed Darwin in 1942, mainland Australia faced direct attack for the first time. About 1 million Australians served; nearly 40,000 died.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "wwii",
+        "history",
+        "military"
+      ]
+    },
+    {
+      "id": 215,
+      "chapter_id": 6,
+      "text": "What is the significance of the 2008 National Apology to the Stolen Generations?",
+      "options": [
+        "It gave Aboriginal Australians the right to vote for the first time",
+        "Prime Minister Kevin Rudd formally apologised to Aboriginal and Torres Strait Islander peoples for the policies that forcibly removed children from their families",
+        "It was an apology for the White Australia Policy",
+        "It established the first Indigenous parliament"
+      ],
+      "correct_index": 1,
+      "explanation": "On 13 February 2008, Prime Minister Kevin Rudd delivered a formal apology to Aboriginal and Torres Strait Islander peoples for the laws and policies that caused the Stolen Generations \u2014 the forced removal of Indigenous children from their families.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "apology",
+        "stolen-generations",
+        "indigenous"
+      ]
+    },
+    {
+      "id": 216,
+      "chapter_id": 6,
+      "text": "What major multicultural transformation happened to Australia after World War II?",
+      "options": [
+        "Australia closed its borders to all immigration",
+        "Australia launched a mass immigration program welcoming millions of migrants from Europe and later Asia",
+        "Australia became a French-speaking country",
+        "Australia united with New Zealand to form one country"
+      ],
+      "correct_index": 1,
+      "explanation": "After WWII, Australia launched a massive immigration program under the slogan 'Populate or Perish.' Millions of migrants \u2014 initially from Britain and Europe, later from Asia and beyond \u2014 transformed Australia into one of the world's most multicultural nations.",
+      "difficulty": "medium",
+      "is_values_question": false,
+      "tags": [
+        "immigration",
+        "multiculturalism",
+        "history"
+      ]
+    },
+    {
+      "id": 217,
+      "chapter_id": 6,
+      "text": "What is the Kokoda Track and why is it significant to Australians?",
+      "options": [
+        "A famous hiking trail in Tasmania",
+        "A jungle trail in Papua New Guinea where Australian soldiers fought a crucial WWII campaign against Japan",
+        "The route taken by the First Fleet to reach Sydney",
+        "A mountain pass in the Australian Alps"
+      ],
+      "correct_index": 1,
+      "explanation": "The Kokoda Track is a jungle trail in Papua New Guinea where Australian soldiers fought a brutal campaign against Japanese forces in 1942. The campaign is seen as one of Australia's most heroic military efforts and is a powerful symbol of the ANZAC spirit.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "wwii",
+        "kokoda",
+        "military",
+        "history"
+      ]
+    },
+    {
+      "id": 218,
+      "chapter_id": 6,
+      "text": "What is the significance of Captain James Cook in Australian history?",
+      "options": [
+        "He was the first European to discover the continent of Australia",
+        "He claimed the eastern coast of Australia for Britain in 1770, naming it New South Wales",
+        "He led the First Fleet to establish the first European settlement",
+        "He was Australia's first Prime Minister"
+      ],
+      "correct_index": 1,
+      "explanation": "Captain James Cook sailed along the eastern coast of Australia in 1770 and claimed it for Britain, naming it New South Wales. His voyage led directly to the establishment of the British colony at Port Jackson (Sydney) in 1788. Note: Dutch explorer Abel Tasman reached Australia earlier, in 1642.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "cook",
+        "exploration",
+        "history"
+      ]
+    },
+    {
+      "id": 219,
+      "chapter_id": 6,
+      "text": "What was the gold rush of the 1850s and how did it change Australia?",
+      "options": [
+        "A government program to sell gold reserves overseas",
+        "The discovery of gold in Victoria and New South Wales, which triggered mass immigration and rapid population growth",
+        "A period when Aboriginal peoples traded gold with European settlers",
+        "Australia's first major export industry, starting in the 1850s"
+      ],
+      "correct_index": 1,
+      "explanation": "The gold rush began in 1851 when gold was discovered in Victoria and New South Wales. It triggered massive immigration \u2014 the population doubled within a decade \u2014 and transformed Australia from a small convict colony into a prosperous, diverse society.",
+      "difficulty": "easy",
+      "is_values_question": false,
+      "tags": [
+        "gold-rush",
+        "history",
+        "immigration"
+      ]
+    },
+    {
+      "id": 220,
+      "chapter_id": 6,
+      "text": "Australia and New Zealand share a special relationship. What is the name of the joint treaty that also includes the United States?",
+      "options": [
+        "The Pacific Charter",
+        "The ANZUS Treaty",
+        "The Commonwealth Pact",
+        "The South Pacific Agreement"
+      ],
+      "correct_index": 1,
+      "explanation": "The ANZUS Treaty (1951) is a collective security agreement between Australia, New Zealand and the United States. It commits each country to consult with the others on Pacific security threats. It remains the cornerstone of Australia's military alliance with the USA.",
+      "difficulty": "hard",
+      "is_values_question": false,
+      "tags": [
+        "anzus",
+        "international",
+        "defence"
+      ]
+    }
+  ]
+}

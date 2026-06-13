@@ -1,0 +1,240 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Australia and its People",
+      "subtitle": "Geography, symbols & identity",
+      "description": "Learn about Australia's geography, national symbols, its diverse people, and what makes Australia unique as a nation.",
+      "icon": "🦘",
+      "total_questions": 25,
+      "key_topics": [
+        "National capital: Canberra",
+        "6 states, 2 territories",
+        "National colours: green and gold",
+        "National anthem: Advance Australia Fair",
+        "National animals: kangaroo and emu",
+        "National flower: Golden Wattle",
+        "Aboriginal Australians: 60,000+ years",
+        "Population: ~26 million",
+        "Australia is a country, continent and island"
+      ],
+      "sections": [
+        {
+          "title": "Australia's Place in the World",
+          "content": "Australia is a unique nation — it is simultaneously a country, a continent, and the world's largest island. Located in the southern hemisphere, Australia is bordered by the Indian Ocean to the west and the Pacific Ocean to the east. Australia's close neighbours include Indonesia to the north and New Zealand to the southeast.\n\nAustralia is the sixth-largest country in the world by area, covering approximately 7.7 million square kilometres. Despite its massive size, Australia has a relatively small population of about 26 million people."
+        },
+        {
+          "title": "States and Territories",
+          "content": "Australia has six states: New South Wales (NSW), Victoria (VIC), Queensland (QLD), South Australia (SA), Western Australia (WA), and Tasmania (TAS).\n\nAustralia also has two self-governing territories: the Australian Capital Territory (ACT), which contains the national capital Canberra, and the Northern Territory (NT).\n\nEach state has its own capital city:\n• New South Wales — Sydney\n• Victoria — Melbourne\n• Queensland — Brisbane\n• South Australia — Adelaide\n• Western Australia — Perth\n• Tasmania — Hobart\n\nCanberra is Australia's national capital, purpose-built as a compromise between rival cities Sydney and Melbourne."
+        },
+        {
+          "title": "National Symbols",
+          "content": "Australia's national flag features three elements:\n• The Union Jack — representing Australia's historical links with Britain\n• The Commonwealth Star — with 7 points (6 for states, 1 for territories)\n• The Southern Cross — representing Australia's location in the southern hemisphere\n\nAustralia's national colours are green and gold. The national flower is the Golden Wattle. The national animal emblems are the kangaroo and emu, both appearing on the Commonwealth Coat of Arms. Neither animal can easily move backwards — symbolising a nation always moving forward.\n\nAustralia's national anthem is Advance Australia Fair, adopted in 1984."
+        },
+        {
+          "title": "Australia's People",
+          "content": "Aboriginal and Torres Strait Islander peoples are Australia's original inhabitants, with a history and culture spanning at least 60,000 years — one of the oldest living cultures on Earth. There are hundreds of different Aboriginal nations and language groups.\n\nEuropean settlement began in 1788 with the arrival of the First Fleet. Since then, Australia has welcomed millions of migrants from all over the world, making it one of the most culturally diverse nations on Earth.\n\nToday, Australia is a multicultural society. About one in four Australians were born overseas. Australia's people come from over 200 countries and speak hundreds of languages."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Democratic Beliefs",
+      "subtitle": "Rights, freedoms & values",
+      "description": "Understand Australia's democratic system, the freedoms it protects, and the values that make Australian society fair and free.",
+      "icon": "⚖️",
+      "total_questions": 20,
+      "key_topics": [
+        "Parliamentary democracy",
+        "Freedom of speech",
+        "Freedom of religion",
+        "Freedom of association",
+        "Freedom of movement",
+        "Rule of law",
+        "Equality before the law",
+        "The 'fair go'",
+        "Westminster system"
+      ],
+      "sections": [
+        {
+          "title": "Australia's Democratic System",
+          "content": "Australia is a parliamentary democracy, based on the Westminster system inherited from Britain. This means Australian citizens elect their representatives to Parliament, and these representatives make decisions on behalf of the people.\n\nAustralia is also a constitutional monarchy — the King is the head of state, represented in Australia by the Governor-General. However, the day-to-day running of the country is carried out by the elected government and Parliament."
+        },
+        {
+          "title": "Democratic Freedoms",
+          "content": "Australia protects fundamental democratic freedoms for all people:\n\n• Freedom of speech — the right to express opinions and views peacefully, within the law\n• Freedom of religion — the right to practise any religion or no religion\n• Freedom of association — the right to join (or not join) any legal organisation\n• Freedom of movement — the right to move freely within Australia and travel overseas\n• Freedom of the press — the media can report on government activities\n\nThese freedoms must be exercised within the law — for example, freedom of speech does not include inciting violence or hatred."
+        },
+        {
+          "title": "The Rule of Law",
+          "content": "One of Australia's most important democratic principles is the rule of law. This means:\n\n• Everyone — including government officials, politicians, police, and judges — must follow the law\n• No one is above the law\n• All people are equal before the law\n• Laws must be made through proper democratic processes\n• People have the right to a fair trial\n\nThe rule of law protects everyone's rights and ensures that power cannot be abused."
+        },
+        {
+          "title": "The Fair Go",
+          "content": "The concept of 'a fair go' is central to Australian culture and values. It means that every person deserves an equal opportunity to succeed in life, regardless of their background, wealth, or where they came from.\n\nThis principle extends to all areas of life — education, employment, sport, and participation in community life. It means judging people on their efforts and abilities, not on who they are or where they come from.\n\nThe fair go underpins many of Australia's laws, including anti-discrimination laws that protect all people from unfair treatment."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Government & the Law",
+      "subtitle": "How Australia is governed",
+      "description": "Learn about Australia's three levels of government, how Parliament works, the role of the courts, and how laws are made.",
+      "icon": "🏛️",
+      "total_questions": 35,
+      "key_topics": [
+        "Three levels: federal, state, local",
+        "Senate and House of Representatives",
+        "King is head of state",
+        "Governor-General",
+        "Prime Minister leads government",
+        "Federation: January 1, 1901",
+        "High Court is highest court",
+        "Compulsory voting at 18",
+        "Separation of powers",
+        "Westminster system"
+      ],
+      "sections": [
+        {
+          "title": "Three Levels of Government",
+          "content": "Australia has three levels of government, each with different responsibilities:\n\n1. Federal (national) government\n   • Defence and national security\n   • Immigration and border protection\n   • Foreign affairs and trade\n   • Social security and Medicare\n   • Taxation policy\n\n2. State and territory governments\n   • Schools and education\n   • Hospitals and health services\n   • Police and courts\n   • State roads and transport\n   • Land management\n\n3. Local government (councils)\n   • Local roads and footpaths\n   • Parks and recreation\n   • Rubbish collection\n   • Local planning and building approvals\n   • Libraries and community services"
+        },
+        {
+          "title": "Federal Parliament",
+          "content": "Australia's Federal Parliament consists of two houses:\n\nThe Senate (upper house)\n• Represents the states and territories equally\n• 12 senators per state, 2 per territory\n• Senators serve 6-year terms\n• Reviews legislation passed by the House\n\nThe House of Representatives (lower house)\n• Represents the people based on population\n• Members serve up to 3-year terms\n• The government must have majority support here\n• Where legislation usually starts\n\nBoth houses must pass a bill before it can become law. The Governor-General then gives Royal Assent."
+        },
+        {
+          "title": "The Head of State and Government",
+          "content": "Australia's head of state is the King (currently King Charles III). The King is represented in Australia by the Governor-General, who:\n• Is appointed on the advice of the Prime Minister\n• Opens and closes Parliament\n• Signs bills into law\n• Swears in ministers\n• Plays an important constitutional role in times of crisis\n\nThe Prime Minister is the head of government — the leader of the party or coalition with majority support in the House of Representatives. The Prime Minister leads the Cabinet, which is the key decision-making body."
+        },
+        {
+          "title": "The Australian Courts",
+          "content": "Australia's court system interprets and applies the law:\n\nThe High Court of Australia is the highest court, and its decisions are final. It:\n• Interprets the Australian Constitution\n• Hears appeals from lower courts\n• Has original jurisdiction over some matters\n\nOther federal courts include the Federal Court and the Federal Circuit and Family Court.\n\nEach state also has its own court hierarchy — Magistrates Courts, District/County Courts, and Supreme Courts.\n\nThe separation of powers ensures that courts are independent from the government — no politician can tell a judge how to decide a case."
+        },
+        {
+          "title": "Elections and Voting",
+          "content": "Voting in federal elections is compulsory for all enrolled Australian citizens aged 18 and over. Failing to vote without a valid reason can result in a fine.\n\nAustralia uses preferential (ranked choice) voting for the House of Representatives — voters rank candidates in order of preference.\n\nThe Senate uses proportional representation, which helps ensure a range of parties are represented.\n\nElections must be held at least every 3 years for the House of Representatives. The Prime Minister chooses the specific date within this timeframe."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Australian Values",
+      "subtitle": "What we stand for",
+      "description": "The values that define Australian society — equality, respect, freedom, and compassion. These are essential for the citizenship test.",
+      "icon": "🤝",
+      "total_questions": 20,
+      "key_topics": [
+        "Respect for the law",
+        "Equality of men and women",
+        "Family violence is illegal",
+        "Religious freedom",
+        "No forced marriage",
+        "Non-discrimination",
+        "Peaceful dispute resolution",
+        "Mateship",
+        "The fair go",
+        "Care for the environment"
+      ],
+      "sections": [
+        {
+          "title": "Core Australian Values",
+          "content": "Australian values are the beliefs and principles that most Australians share and that define Australian society:\n\n• Respect for the equal worth and dignity of all people\n• Freedom and democracy\n• The rule of law\n• Tolerance and mutual respect\n• A 'fair go' for everyone\n• Mateship — friendship, loyalty, and helping others\n• Care for the environment\n• Compassion for those in need\n• Commitment to the community\n\nThese values apply to all people in Australia, regardless of their cultural or religious background."
+        },
+        {
+          "title": "Equality and Non-Discrimination",
+          "content": "A fundamental Australian value is that all people are equal — men and women, people of all races, religions, and backgrounds.\n\nThis means:\n• Men and women have equal rights in all areas of life\n• Discrimination based on race, sex, disability, religion, or age is illegal\n• People with disabilities are valued members of society with equal rights\n• LGBTQ+ people are protected from discrimination\n• People of all cultural backgrounds are treated with equal respect\n\nAustralia has strong anti-discrimination laws to protect these rights."
+        },
+        {
+          "title": "Family, Relationships and Violence",
+          "content": "Australian law strongly protects individuals within families and relationships:\n\n• Marriage must be entered into freely by both partners — forced marriage is illegal\n• Family violence (domestic violence) is completely illegal in Australia, regardless of cultural or religious background\n• Child abuse and exploitation are serious crimes\n• All marriages are between consenting adults\n• Female genital mutilation is illegal\n\nIf you or someone you know is experiencing family violence, help is available 24/7 through 1800RESPECT (1800 737 732)."
+        },
+        {
+          "title": "Religion and Culture",
+          "content": "Australia values religious freedom and cultural diversity:\n\n• All Australians can practise any religion, or no religion, freely\n• No religion is 'official' or government-sanctioned\n• Religious beliefs are respected, but religion does not override Australian law\n• Cultural diversity is celebrated — migrants are encouraged to maintain their heritage\n• All cultural practices must comply with Australian law\n\nThis means that while religious and cultural practices are respected, they cannot justify discrimination, violence, or breaking the law."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rights & Responsibilities",
+      "subtitle": "Citizenship privileges and duties",
+      "description": "Understand what Australian citizenship means — the rights it gives you and the responsibilities you take on.",
+      "icon": "🎖️",
+      "total_questions": 20,
+      "key_topics": [
+        "Vote at 18 (compulsory)",
+        "Enrol on electoral roll",
+        "Apply for Australian passport",
+        "Serve on juries",
+        "Obey the law",
+        "Defend Australia if needed",
+        "Apply for government jobs",
+        "Dual citizenship allowed",
+        "Citizenship pledge",
+        "English language requirement"
+      ],
+      "sections": [
+        {
+          "title": "Rights of Australian Citizenship",
+          "content": "Australian citizenship comes with important rights:\n\n• Vote in federal, state, and local government elections\n• Apply for an Australian passport\n• Apply for jobs in the Australian Public Service (including security-sensitive roles)\n• Seek election to parliament\n• Ask for help from Australian consulates when overseas\n• Apply for citizenship for children born overseas\n\nThese rights are in addition to the rights all people in Australia enjoy, such as equality before the law and freedom of religion."
+        },
+        {
+          "title": "Responsibilities of Australian Citizenship",
+          "content": "With rights come important responsibilities:\n\n• Vote in federal and state elections (compulsory — you must enrol and vote)\n• Obey Australian laws\n• Be willing to serve on a jury if called\n• If called upon, defend Australia\n• Respect the rights and freedoms of others\n• Support and uphold Australian democratic values\n\nEnrolling on the electoral roll is also compulsory for citizens aged 18 and over."
+        },
+        {
+          "title": "The Citizenship Pledge",
+          "content": "When becoming an Australian citizen, you make a Pledge of Commitment:\n\n'From this time forward, [under God,] I pledge my loyalty to Australia and its people, whose democratic beliefs I share, whose rights and liberties I respect, and whose laws I will uphold and obey.'\n\nThis pledge represents a personal commitment to Australia — to its people, its democratic values, and its laws. It is the beginning of your life as an Australian citizen."
+        },
+        {
+          "title": "Permanent Residency vs Citizenship",
+          "content": "Permanent residents have many of the same day-to-day rights as citizens, but not all:\n\nPermanent residents can:\n• Live and work in Australia permanently\n• Access Medicare and some government services\n• Sponsor some family members\n• Travel to Australia on their visa\n\nOnly Australian citizens can:\n• Vote in federal elections (and state elections in most states)\n• Hold an Australian passport\n• Apply for security-sensitive government jobs requiring citizenship\n• Be elected to Parliament\n• Receive automatic right of entry without a visa"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "History & Geography",
+      "subtitle": "Australia's story and land",
+      "description": "Explore Australia's rich history from ancient Aboriginal culture through European settlement, Federation, and becoming the modern nation it is today.",
+      "icon": "📚",
+      "total_questions": 25,
+      "key_topics": [
+        "First Fleet 1788",
+        "Captain Arthur Phillip",
+        "Captain James Cook 1770",
+        "Gold Rush 1850s",
+        "Women's vote 1902",
+        "ANZAC Day April 25",
+        "Gallipoli 1915",
+        "1967 referendum",
+        "Mabo decision 1992",
+        "Great Barrier Reef",
+        "Uluru",
+        "The Stolen Generations"
+      ],
+      "sections": [
+        {
+          "title": "Ancient Australia — First Australians",
+          "content": "Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 60,000 years, making them custodians of one of the world's oldest living cultures.\n\nThere were hundreds of distinct Aboriginal nations across Australia, each with their own language, culture, laws, and spiritual connection to their land. Aboriginal Australians had sophisticated knowledge of the land, water, and seasons.\n\nTorres Strait Islander peoples lived on the islands between Australia and Papua New Guinea, developing distinct cultures closely connected to the sea."
+        },
+        {
+          "title": "European Exploration and Settlement",
+          "content": "European exploration of Australia began in the early 1600s:\n\n• 1606 — Willem Janszoon (Dutch) made the first recorded European landing in Australia\n• 1642 — Abel Tasman discovered Tasmania and New Zealand\n• 1770 — Captain James Cook mapped the eastern coast, claiming it for Britain\n\nBritish settlement began on January 26, 1788, when the First Fleet — 11 ships carrying 1,487 people (including about 750 convicts) — arrived at Sydney Cove under the command of Captain Arthur Phillip.\n\nPhillip became Australia's first Governor and established the first European settlement at what is now Sydney."
+        },
+        {
+          "title": "Growth and Change",
+          "content": "Through the 1800s, Australia grew rapidly:\n\n• More free settlers arrived alongside convicts\n• Six separate colonies were established\n• The Gold Rush of the 1850s (especially in Victoria) brought thousands of migrants from around the world, including significant numbers from China\n• Aboriginal Australians were pushed off their lands and suffered greatly from diseases, violence, and loss of culture\n\nIn 1902, Australia became one of the first countries in the world to give women the right to vote at the national level (though Aboriginal women and men were still excluded in many places)."
+        },
+        {
+          "title": "Federation and World Wars",
+          "content": "On January 1, 1901, the six Australian colonies united to form the Commonwealth of Australia — an historic act of Federation. Melbourne served as the temporary capital until Canberra was built.\n\nAustralia participated in both World Wars:\n\nWorld War I (1914-1918): Australian and New Zealand troops (ANZACs) landed at Gallipoli, Turkey on April 25, 1915. Though the campaign failed militarily, the courage and sacrifice of ANZAC soldiers forged a powerful national identity. ANZAC Day is now Australia's most solemn national day of remembrance.\n\nWorld War II (1939-1945): Australia faced direct threat from Japan, which bombed Darwin in 1942."
+        },
+        {
+          "title": "Modern Australia",
+          "content": "After World War II, Australia welcomed large numbers of migrants from Britain, Europe, and later Asia, transforming into a multicultural nation.\n\nKey milestones in modern Australia:\n\n• 1967 — Landmark referendum: 90%+ Australians voted 'Yes' to count Aboriginal Australians in the census and give the federal government power to make laws for them\n• 1973 — White Australia Policy effectively ended; migration opened to all nationalities\n• 1975 — Racial Discrimination Act passed\n• 1992 — Mabo decision: High Court recognised Aboriginal native title, overturning 'terra nullius'\n• 2000 — Sydney hosted the Olympic Games\n• 2008 — Prime Minister Kevin Rudd delivered a formal apology to the Stolen Generations\n\nToday Australia is a prosperous, diverse, and democratic nation, home to people from over 200 countries."
+        }
+      ]
+    }
+  ]
+}
