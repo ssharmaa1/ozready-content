@@ -1,6 +1,6 @@
-# OzReady Content
+# OzReady Prep Content
 
-This repo hosts the live content and website for the **OzReady** app.
+This repo hosts the live content and website for the **OzReady Prep** app.
 
 ## Structure
 
